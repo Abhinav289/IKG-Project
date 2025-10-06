@@ -1,0 +1,77 @@
+id,createdAt,text,hashtags,urls,user_mentions,retweetCount,replyCount,likeCount,quoteCount,viewCount,bookmarkCount,char_length,word_length
+1973238769475055775,Wed Oct 01 04:09:18 +0000 2025,"Meta just released TruthRL on Hugging Face
+
+A new RL framework directly optimizes LLM truthfulness. Using a ternary reward, it slashes hallucinations by 28.9% and boosts truthfulness by 21.1%, teaching models to recognize their knowledge boundaries. https://t.co/5bmpzHmoWx",,,,6,1,14,0,985,7,273,37
+1966051852807532961,Thu Sep 11 08:11:03 +0000 2025,"This essential survey examines RL for LLMs/LRMs, addressing scaling challenges in algorithm design, data, and infrastructure. Dive into foundational components, training resources & applications to accelerate progress towards Artificial SuperIntelligence!
+
+Read the full survey here:
+https://t.co/vNxFD26ZeH",,https://huggingface.co/papers/2509.08827,,0,0,3,0,726,1,307,36
+1967802535378313608,Tue Sep 16 04:07:39 +0000 2025,"Alibaba's UI-S1 hits new SOTA in GUI Automation
+
+Introduces Semi-online RL, a novel paradigm simulating online RL on offline trajectories for efficient training. UI-S1-7B achieves SOTA among 7B models on dynamic benchmarks, bridging the gap between offline efficiency and online multi-turn reasoning.",,,,6,1,21,0,1217,11,300,42
+1963303440462835766,Wed Sep 03 18:09:51 +0000 2025,"ByteDance just unveiled UI-TARS-2!
+
+This new native GUI agent model advances autonomous control with multi-turn reinforcement learning. It significantly outperforms Claude and OpenAI agents, reaching 60% human-level performance in games &amp; excelling in real-world scenarios. https://t.co/T5AGS17NAU",,,,3,2,30,0,1133,10,301,36
+1967139254326489558,Sun Sep 14 08:12:00 +0000 2025,"Tencent AI Lab introduces Curiosity-Driven Exploration for LLMs
+
+Tackle poor exploration in LLM reinforcement learning with CDE. It uses intrinsic curiosity signals from actor perplexity and critic value variance as an exploration bonus, improving reasoning on AIME benchmarks by ~3 points.",,,,7,1,47,1,3370,15,290,41
+1970643813065453901,Wed Sep 24 00:17:52 +0000 2025,"Alibaba's GeoPQA: MLLMs learn to see, then reason
+
+MLLMs often fail geometry due to a ""perceptual bottleneck."" GeoPQA's 2-stage RL framework first boosts visual perception of geometric structures, then fosters reasoning. Improves problem-solving accuracy by 9.1%! https://t.co/zMdDxMGT4Y",,,,9,2,63,0,2450,20,287,37
+1965570294694760597,Wed Sep 10 00:17:31 +0000 2025,"Huawei Technologies just dropped the first comprehensive survey on Reinforcement Learning foundations for deep research systems.
+
+Explore data synthesis, RL methods, and training frameworks shaping agentic AI.
+
+A must-read for anyone building the future of AI. https://t.co/uInOQ13XRW",,,,3,1,19,1,1209,8,284,37
+1968165412534620379,Wed Sep 17 04:09:35 +0000 2025,"Tencent introduces Single-stream Policy Optimization (SPO) for LLMs
+
+Experience a new era of efficient reinforcement learning! SPO's group-free design delivers 4.35x throughput speedup & +3.4% maj@32 on math benchmarks, simplifying policy gradient optimization for robust LLM reasoning.",,,,3,1,18,0,1383,6,286,37
+1958017815497056517,Wed Aug 20 04:06:40 +0000 2025,"OPPO PersonalAI Lab unveils Chain-of-Agents on Hugging Face!
+
+This new paradigm enables end-to-end multi-agent problem-solving within a single LLM, simulating diverse agent collaboration and tool use.
+
+It's trained via multi-agent distillation and agentic reinforcement learning. https://t.co/GRp67YgiHH",,,,2,1,8,0,862,4,303,36
+1971548693431021724,Fri Sep 26 12:13:32 +0000 2025,"Alibaba Cloud unveils VCRL: Variance-based Curriculum Reinforcement Learning
+
+This novel framework dynamically adjusts LLM training difficulty for math reasoning, using group reward variance to pinpoint optimal learning samples.
+
+It achieves state-of-the-art results efficiently, with no additional knowledge distillation.",,,,6,2,29,0,1239,10,322,38
+1968950187029614951,Fri Sep 19 08:08:00 +0000 2025,"Microsoft Research &amp; collaborators introduce FlowRL
+
+This new LLM reinforcement learning framework uses *reward distribution matching* to prevent mode collapse, unlocking diverse, SOTA reasoning paths. It beats GRPO by 10% &amp; PPO by 5.1% on math &amp; code tasks. https://t.co/IRC8QYq7VW",,,,4,3,25,1,1355,4,294,40
+1966957331071242427,Sat Sep 13 20:09:06 +0000 2025,"New paper unveils how AI's understanding &amp; generation can truly *boost* each other!
+
+Meet UAE, a novel framework that uses an Auto-Encoder lens (I2T encoder, T2I decoder) and RL to enable mutual gains. See how richer captions lead to striking image fidelity! https://t.co/Lsj0OMLWUQ",,,,6,4,31,0,1528,9,286,43
+1974268330455470092,Sat Oct 04 00:20:24 +0000 2025,"Variational Reasoning for LLMs
+
+This new framework optimizes thinking traces as latent variables via variational inference, unifying RL methods with a principled probabilistic view. Discover how it reveals a hidden bias towards easier questions &amp; improves reasoning on Qwen 2.5/3. https://t.co/vXAoAmytT8",,,,0,1,5,0,628,4,308,41
+1967238828403351869,Sun Sep 14 14:47:40 +0000 2025,"Top AI Papers on @huggingface (September 8 - 12):
+
+- SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning
+- Sharing is Caring: Efficient LM Post-Training with Collective RL Experience Sharing
+- VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model
+- Why Language Models Hallucinate
+- Reverse-Engineered Reasoning for Open-Ended Generation
+- Parallel-R1: Towards Parallel Thinking via Reinforcement Learning",,,huggingface,23,4,118,1,14072,57,440,57
+1968346179894235444,Wed Sep 17 16:07:54 +0000 2025,"Alibaba's WebSailor-V2: SOTA open-source web agents arrive
+
+A groundbreaking framework, powered by synthetic data and a dual-environment RL pipeline, achieves state-of-the-art results on BrowseComp & HLE. It outperforms existing open-source models and closes the gap to proprietary systems.",,,,11,3,64,1,10685,33,290,38
+1955663146669965725,Wed Aug 13 16:10:03 +0000 2025,"HierSearch: A new hierarchical deep search framework for enterprise!
+
+Integrates local &amp; Web searches with hierarchical RL for robust multi-source info retrieval.
+
+Outperforms SOTA on finance, medical, and general benchmarks. Boosting reliability &amp; efficiency! https://t.co/dtcX8M77FH",,,,6,1,24,0,991,9,292,35
+1973602493532942812,Thu Oct 02 04:14:36 +0000 2025,"GEM is packed with diverse environments & robust integrated tools for LLM agent training & evaluation. It supports async execution, features baselines, & benchmarks top LLMs like GPT-5 & Gemini!
+
+Accelerate your RL research:
+🔗 Paper: https://t.co/eTeOUAlqw8
+📚 Hugging Face Hub: https://t.co/uZOuEb6k3H",,"https://huggingface.co/papers/2510.01051, https://huggingface.co/axon-rl",,1,0,2,0,629,0,301,42
+1973782806175088674,Thu Oct 02 16:11:06 +0000 2025,"ByteDance introduces Knapsack RL for LLMs
+
+Boosts LLM exploration in reinforcement learning by intelligently allocating computational budgets where they matter most. This novel approach treats exploration as a knapsack problem, dramatically increasing non-zero gradients and achieving state-of-the-art results with 2x less compute.",,,,3,1,22,0,1267,14,331,42
+1971487864807469236,Fri Sep 26 08:11:50 +0000 2025,"Alibaba Group & partners unveil MMR1: Revolutionizing multimodal reasoning with less data!
+
+MMR1 introduces Variance-Aware Sampling (VAS) for stable RL fine-tuning. Tackles unstable optimization & scarce high-quality data. Releasing massive open datasets (~1.6M CoT, 15k RL QA) & models (3B, 7B, 32B) for the community.",,,,17,1,55,0,6192,23,319,45
+1972696021856915594,Mon Sep 29 16:12:37 +0000 2025,"Adobe &amp; Rutgers introduce EPO for LLM Agent RL
+
+This Entropy-regularized Policy Optimization tackles the core challenge of 'exploration-exploitation cascade failure' in multi-turn, sparse-reward environments. It achieves up to 152% performance gains on ScienceWorld. https://t.co/ujspxrBXOg",,,,23,4,122,3,15978,79,294,35

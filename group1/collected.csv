@@ -1,0 +1,321 @@
+id,createdAt,text,hashtags,urls,user_mentions,retweetCount,replyCount,likeCount,quoteCount,viewCount,bookmarkCount,char_length,word_length
+1966352984461173096,Fri Sep 12 04:07:39 +0000 2025,"New paper: SimpleVLA-RL is here on Hugging Face!
+
+An efficient RL framework that scales VLA training, achieving state-of-the-art robotic manipulation with less data and superior generalization. https://t.co/YYBKg3LyI7",,,,6,1,24,1,2296,9,217,27
+1967077621323162080,Sun Sep 14 04:07:06 +0000 2025,"How do LLMs *really* learn to reason with reinforcement learning?
+
+A new paper uncovers an emergent hierarchical reasoning, explaining puzzling phenomena like ""aha moments"" &amp; ""length-scaling"" by separating high-level planning from low-level execution. https://t.co/D1z5rKZwa7",,,,8,1,32,0,1839,14,279,34
+1971185558195142690,Thu Sep 25 12:10:34 +0000 2025,"IBM Research unveils GRPO for Speech-Aware LLMs
+
+A new reinforcement learning method improves speech understanding tasks like Spoken Question Answering and Automatic Speech Translation, outperforming standard supervised fine-tuning. https://t.co/N1EgaEE7aP",,,,4,2,11,0,766,4,256,29
+1969796678585561360,Sun Sep 21 16:11:39 +0000 2025,"IGPO: Inpainting Guides Policy Optimization for Diffusion LLMs
+
+A new RL framework for masked diffusion LLMs leverages inpainting to guide exploration and overcome sparse rewards. It strategically inserts partial ground-truth traces, achieving new state-of-the-art on math benchmarks.",,,,5,1,15,0,2,4,284,37
+1970702386835407055,Wed Sep 24 04:10:37 +0000 2025,"Tencent unveils RLPT: A new way to train LLMs smarter.
+
+RLPT uses reinforcement learning directly on pre-training data, eliminating the need for costly human annotations. It's designed to overcome data scarcity and boost LLM reasoning, validated with Qwen3-4B-Base. https://t.co/cOapQrYNSk",,,,6,2,32,0,1404,12,289,39
+1967319457648275924,Sun Sep 14 20:08:04 +0000 2025,"SEELE, from researchers at Baidu and Peking University, revolutionizes RL for LLMs. It improves exploration efficiency by dynamically adapting hint lengths.
+
+Dive deeper: https://t.co/1jspMHSVVN",,https://huggingface.co/papers/2509.06923,,0,0,7,0,750,2,194,24
+1973602483969871980,Thu Oct 02 04:14:34 +0000 2025,"Axon-RL introduces GEM: A Gym for Agentic LLMs
+
+This open-source environment simulator facilitates experience-based learning for LLMs. It offers diverse environments, robust tools, and async execution, analogous to OpenAI Gym for traditional RL. https://t.co/xYeBSDkvoj",,,,4,2,10,0,959,6,269,34
+1972914770618536112,Tue Sep 30 06:41:50 +0000 2025,"This 32B model scales up multi-turn off-policy RL &amp; multi-agent tree search for LLM step-provers.
+Achieves 95.08% on MiniF2F and 41.4% on ProofNet.
+
+Get the model: https://t.co/GF82Q7ZuGJ
+Paper: https://t.co/2I86Hx5bnj",,"https://huggingface.co/ByteDance-Seed/BFS-Prover-V2-32B, https://huggingface.co/papers/2509.06493",,0,0,2,0,580,1,222,29
+1970702396440424685,Wed Sep 24 04:10:39 +0000 2025,"RLPT introduces a novel paradigm: scaling Reinforcement Learning on raw pre-training data, removing the need for human-annotated rewards! This boosts LLM reasoning capabilities.
+
+Dive into the paper for details: https://t.co/6llSu7Zflt",,https://huggingface.co/papers/2509.19249,,1,0,6,0,704,1,235,30
+1966051842997035284,Thu Sep 11 08:11:01 +0000 2025,"TsinghuaC3I presents a comprehensive survey on Reinforcement Learning for Large Reasoning Models. It explores how RL transforms LLMs into LRMs, covering foundational components, challenges, resources, and future directions for scaling towards ASI. https://t.co/V4wTlRapWc",,,,5,1,17,0,1198,4,271,33
+1974145784326091262,Fri Oct 03 16:13:27 +0000 2025,"ExGRPO: Learning to Reason from Experience
+
+A new framework for RL with verifiable rewards (RLVR) that reuses high-value experiences to boost efficiency &amp; stability. It improves reasoning performance by +3.5 to +7.6 points over on-policy methods! https://t.co/Izdh83NFJf",,,,3,1,9,0,718,11,274,37
+1969796242415747569,Sun Sep 21 16:09:55 +0000 2025,"Meta unveils IGPO for Diffusion LLMs
+
+A new RL framework leveraging inpainting to guide exploration &amp; boost efficiency. Achieves new SoTA on math benchmarks like GSM8K, Math500, and AMC with reliable performance. https://t.co/b23XZmtU15",,,,5,1,9,0,832,3,240,33
+1967077631003693510,Sun Sep 14 04:07:08 +0000 2025,"Discover Hierarchy-Aware Credit Assignment (HICRA) for efficient RL that focuses on strategic planning tokens.
+
+Paper: https://t.co/joD4h0GOIb
+Models: https://t.co/YYxaZ6a8oh",,"https://huggingface.co/papers/2509.03646, https://huggingface.co/collections/TIGER-Lab/hierarchical-reasoner-68c183451eadc248ee43ff59",,0,0,7,0,751,2,174,18
+1966657566328689092,Sat Sep 13 00:17:57 +0000 2025,"Gensyn's new paper, SAPO, introduces decentralized RL post-training for LMs.
+
+Imagine models learning 94% faster by sharing ""Aha moments"" across any hardware, from GPUs to laptops! https://t.co/ZMVuqHHGgm",,,,6,1,10,1,1323,5,204,27
+1966171657699209558,Thu Sep 11 16:07:07 +0000 2025,"ByteDance's AgentGym-RL is a new framework for training LLM agents in long-horizon, multi-turn decision-making through Reinforcement Learning.
+
+It outperforms commercial models on 27 tasks across diverse real-world environments. https://t.co/gUfPomXyac",,,,6,2,20,0,1115,9,252,29
+1971548702985662796,Fri Sep 26 12:13:35 +0000 2025,"Discover VCRL, a curriculum RL method that helps LLMs learn complex math reasoning tasks more effectively.
+
+Learn more and discuss this paper on Hugging Face: https://t.co/pyJwvpr72u",,https://huggingface.co/papers/2509.19803,,0,0,3,0,522,1,182,26
+1965447418440262056,Tue Sep 09 16:09:15 +0000 2025,"Princeton University &amp; Gen-Verse unveil TraceRL: a new RL framework for Diffusion LLMs, achieving state-of-the-art reasoning with unprecedented data efficiency! https://t.co/KLq1goCMZT",,,,15,1,95,0,11472,46,188,21
+1967242580422451469,Sun Sep 14 15:02:35 +0000 2025,"@huggingface Parallel-R1: Towards Parallel Thinking via Reinforcement Learning
+
+https://t.co/zv6sXObNQo",,https://x.com/HuggingPapers/status/1965627833247477790,huggingface,1,0,6,0,928,2,103,9
+1965326523121926595,Tue Sep 09 08:08:51 +0000 2025,"REER shifts from ""forward"" (RL/distillation) to ""backward"" reasoning, discovering hidden steps from good solutions.
+
+Meet DeepWriter-8B &amp; explore DeepWriting-20K, a dataset of 20K deep reasoning trajectories.
+
+Paper: https://t.co/g7ZuhLQ5Ob
+Dataset: https://t.co/jtWGX7jxO6",,"https://huggingface.co/papers/2509.06160, https://huggingface.co/collections/m-a-p/reer-deepwriter-68bf173554bb576cfac8e1f0",,1,0,8,0,743,7,277,30
+1965570304450707735,Wed Sep 10 00:17:33 +0000 2025,"This survey systematizes RL methods for agentic AI, covering data, training, evaluation, and practical guidance.
+
+Read the full paper on the Hugging Face Hub:
+https://t.co/cLounR0bcw
+
+Explore the code &amp; resources:
+https://t.co/jiTPef5MKJ",,"https://huggingface.co/papers/2509.06733, https://github.com/wenjunli-0/deepresearch-survey",,0,0,5,0,592,2,241,31
+1967241737740632069,Sun Sep 14 14:59:14 +0000 2025,"@huggingface SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning
+
+https://t.co/7HWaATFZR1",,https://x.com/HuggingPapers/status/1966352984461173096,huggingface,0,1,3,0,488,2,99,9
+1973095422290960423,Tue Sep 30 18:39:41 +0000 2025,"Qwen just released Qwen3-4B-SafeRL on Hugging Face
+
+A safety-aligned model that uses reinforcement learning to be robust against harmful prompts without sacrificing helpfulness. https://t.co/K60A6O4uo6",,,,23,9,145,3,14205,52,201,24
+1973842670910124340,Thu Oct 02 20:08:59 +0000 2025,"Automate environment setup with PIPer!
+
+This on-device model matches GPT-4o performance at 25x less cost.
+
+Paper: https://t.co/77lqjeyDPt
+Model: https://t.co/4kRgms0C5p
+Data: https://t.co/2uVfO3w3JI",,"https://huggingface.co/papers/2509.25455, https://huggingface.co/JetBrains-Research/PIPer-8B, https://huggingface.co/datasets/JetBrains-Research/PIPer-envbench-zeroshot-rl",,0,0,3,0,636,2,198,21
+1966352994212986883,Fri Sep 12 04:07:41 +0000 2025,"Discover SimpleVLA-RL's breakthroughs: from reducing data dependence to outperforming SFT on real-world robots &amp; even finding new ""pushcut"" actions!
+
+Paper: https://t.co/F11HCERqlu
+Models: https://t.co/anZlpdcuXi",,"https://huggingface.co/papers/2509.09674, https://huggingface.co/collections/Haozhan72/simplevla-rl-6833311430cd9df52aeb1f86",,0,0,4,0,885,0,216,23
+1966657575912690097,Sat Sep 13 00:17:59 +0000 2025,"SAPO enables fully asynchronous, decentralized RL post-training.
+
+Share rollouts across diverse hardware without sync overhead, driving collective intelligence &amp; boosting performance up to 94%!
+
+Paper: https://t.co/mwGd3gkie5
+Model: https://t.co/86fluoNj3Y",,"https://huggingface.co/papers/2509.08721, https://huggingface.co/Gensyn/Qwen2.5-0.5B-Instruct",,0,0,2,0,616,4,260,28
+1963153160358531583,Wed Sep 03 08:12:41 +0000 2025,"ByteDance researchers published a must-read survey on Agentic Reinforcement Learning, redefining LLMs as autonomous decision-making agents in complex, dynamic worlds. https://t.co/Dp7qV5f1Qs",,,,5,2,26,0,1630,12,190,21
+1963816443616604450,Fri Sep 05 04:08:20 +0000 2025,"WeChat AI & Tsinghua University introduce a Unified Policy Gradient Estimator!
+
+It unifies RL and SFT as instances of a single optimization process for LLM post-training.
+
+This work introduces Hybrid Post-Training (HPT) that dynamically selects training signals for effective, stable reasoning.",,,,2,2,23,0,1095,13,294,41
+1964722122921767164,Sun Sep 07 16:07:11 +0000 2025,"https://t.co/JACjEL9L9P just unveiled DCPO: Dynamic Clipping Policy Optimization
+
+This breakthrough in Reinforcement Learning for LLMs tackles zero gradients with dynamic clipping, achieving state-of-the-art reasoning performance faster and more reliably. https://t.co/GOfUU8hC2C",,http://Baichuan.inc,,4,2,26,0,1341,11,279,30
+1964483867609547078,Sun Sep 07 00:20:27 +0000 2025,"DARLING (Diversity-Aware Reinforcement Learning) tackles the common problem of reduced diversity in post-trained LMs.
+
+This approach even boosts response quality by encouraging better exploration in online RL!
+
+Explore the paper: https://t.co/Hg28wHtRZa
+Code: https://t.co/6ov1Nw2lKD",,"https://huggingface.co/papers/2509.02534, https://github.com/facebookresearch/darling",,0,1,4,0,621,2,283,33
+1963214809249558876,Wed Sep 03 12:17:39 +0000 2025,"TikTok &amp; Nanyang Tech introduce SimpleTIR, a breakthrough RL framework that stabilizes multi-turn tool-integrated reasoning, achieving SOTA on challenging math benchmarks. https://t.co/2cm7lCfxh7",,,,4,1,15,0,833,1,199,22
+1963396087202365843,Thu Sep 04 00:17:59 +0000 2025,"Unleash agentic AI with VerlTool! A new unified framework for Reinforcement Learning with Tool Use, tackling complex multi-modal &amp; multi-turn tasks. https://t.co/kHVAmjkAvj",,,,5,2,14,0,972,8,176,22
+1965932976492990859,Thu Sep 11 00:18:41 +0000 2025,"Meta &amp; UC Berkeley unveil Language Self-Play (LSP): a new reinforcement learning approach where LLMs improve without *any* additional data.
+
+It leverages self-play in a competitive game framework.
+
+https://t.co/9OQn3gjd66",,https://huggingface.co/papers/2509.07414,,4,0,15,1,1233,5,225,29
+1964300251839230059,Sat Sep 06 12:10:49 +0000 2025,"Kwai Keye Team at Kuaishou unveils Keye-VL 1.5: a powerful multimodal LLM excelling in video understanding with a novel Slow-Fast encoding strategy, 128K context window, and advanced RL training. https://t.co/uzHgeCHIFY",,,,3,1,25,0,1238,10,219,30
+1967139264019513769,Sun Sep 14 08:12:02 +0000 2025,"CDE enhances exploration in LLM reinforcement learning, preventing issues like premature convergence. By using actor &amp; critic-based curiosity bonuses, it boosts performance by ~3 points on AIME benchmarks.
+
+Explore the full paper: https://t.co/ICN2vKAMpj",,https://huggingface.co/papers/2509.09675,,0,0,6,0,856,2,258,33
+1970883873740300719,Wed Sep 24 16:11:47 +0000 2025,"Experience next-gen MLLM capabilities:
+Dive into the paper for details on its 3D-Resampler, unified learning, and hybrid RL strategy.
+
+Model: https://t.co/mCbsP9lc0h
+Paper: https://t.co/K2a8m9eiXh",,"https://huggingface.co/openbmb/MiniCPM-V-4_5, https://huggingface.co/papers/2509.18154",,0,0,3,0,543,0,196,23
+1965025032570040709,Mon Sep 08 12:10:50 +0000 2025,"Learn how RL boosts SVG generation &amp; semantics, achieving SoTA without ground truth SGPs.
+
+Explore the paper, models &amp; benchmark:
+https://t.co/loagWCVHV2
+Model: https://t.co/JFkBKAZQCB
+Benchmark: https://t.co/1FsyN9IKCy",,"https://huggingface.co/papers/2509.05208, https://huggingface.co/datasets/SphereLab/sgp-gen-model, https://huggingface.co/collections/SphereLab/sgp-generation-68b7d8a3b70ff81184c9923d",,0,0,9,0,714,0,227,25
+1963303442245431396,Wed Sep 03 18:09:51 +0000 2025,"UI-TARS-2 achieved 88.2% on Online-Mind2Web &amp; 59.8% human-level score on a 15-game suite.
+
+It uses a data flywheel, stabilized multi-turn RL &amp; hybrid GUI env.  
+
+Explore the paper for full details: https://t.co/geBSMSpNOm",,https://huggingface.co/papers/2509.02544,,0,0,4,0,544,1,229,32
+1970943883099173147,Wed Sep 24 20:10:14 +0000 2025,"ByteDance introduces MAPO, a new RL strategy
+
+It improves reasoning for foundation models by dynamically reweighting advantage functions, tackling ""advantage reversion"" and ""advantage mirror"" problems for more stable and accurate results. https://t.co/4vqDcritgB",,,,10,5,67,1,3763,38,262,32
+1965627833247477790,Wed Sep 10 04:06:09 +0000 2025,"Tencent AI Lab introduces Parallel-R1.
+
+This is the first reinforcement learning framework to enable parallel thinking in LLMs for complex real-world reasoning tasks.
+
+It shows significant accuracy improvements.
+
+https://t.co/rq2DJjnt7Y",,https://huggingface.co/papers/2509.07980,,3,0,28,1,2574,9,236,29
+1966171667388051628,Thu Sep 11 16:07:09 +0000 2025,"AgentGym-RL trains agents from scratch for multi-turn tasks, matching/surpassing models like GPT-4o!
+
+Discover ScalingInter-RL for stable training across WebArena, Deep Search &amp; more.
+
+Paper: https://t.co/j7VsYpNskA
+Data: https://t.co/nXX6sK4jYg",,"https://huggingface.co/papers/2509.08755, https://huggingface.co/datasets/AgentGym/AgentGym-RL-Data-ID",,0,0,4,0,606,1,249,27
+1971607411690524843,Fri Sep 26 16:06:52 +0000 2025,"Tree-GRPO tackles sparse supervision in long-term tasks by enabling step-wise process signals from outcome rewards. On 11 QA datasets, it outperforms chain-based RL with 4x less data!
+
+Paper: https://t.co/2XjGZmcJ6H
+Code: https://t.co/pbhuykFNrt",,"https://huggingface.co/papers/2509.21240, https://github.com/AMAP-ML/Tree-GRPO",,1,0,2,0,505,1,245,31
+1960253548656001409,Tue Aug 26 08:10:40 +0000 2025,"Alibaba Group introduces Visual-CoG on Hugging Face.
+
+It's a novel reinforcement learning framework that tackles complex text-to-image prompts with stage-aware guidance.
+
+Unlocking superior control and accuracy in visual generation. https://t.co/tAjqq0PHZW",,,,1,2,14,0,966,6,256,30
+1962729023731098045,Tue Sep 02 04:07:19 +0000 2025,"Alibaba Cloud Computing just released PVPO on Hugging Face.
+
+An efficient and reliable reinforcement learning method for advanced reasoning tasks, achieving state-of-the-art performance. https://t.co/iWnMSF1ewJ",,,,17,5,95,1,4117,32,210,24
+1962672207533953409,Tue Sep 02 00:21:33 +0000 2025,"Think in Games reformulates RL as a language modeling task, allowing LLMs to generate policies refined by environmental feedback.
+
+Achieves competitive performance with dramatically less data.
+
+Dive into the paper: https://t.co/yeq3epEg1N",,https://huggingface.co/papers/2508.21365,,0,1,3,0,752,2,238,31
+1960433765542486072,Tue Aug 26 20:06:47 +0000 2025,"New research introduces RuscaRL, a novel reinforcement learning framework designed to break the exploration bottleneck that limits LLMs in general reasoning tasks.
+
+It uses rubric-scaffolded exploration & verifiable rewards to expand reasoning capabilities.
+
+https://t.co/mK20Qsp5br",,https://huggingface.co/papers/2508.16949,,1,1,11,0,903,7,282,34
+1961460681552601108,Fri Aug 29 16:07:23 +0000 2025,"Dive into AWorld, an open-source system enabling scalable reinforcement learning for agentic AI.
+
+Check out the paper: https://t.co/QwJuyiM2Gh
+
+Explore the Qwen3-32B-based agent: https://t.co/D4zXE1GafW",,"https://huggingface.co/papers/2508.20404, https://huggingface.co/inclusionAI/Qwen3-32B-AWorld",,0,0,3,0,479,1,202,23
+1957414884246966706,Mon Aug 18 12:10:50 +0000 2025,"TsinghuaC3I and ByteDance unveil SSRL on Hugging Face.
+
+A groundbreaking new Reinforcement Learning method that uses LLMs as internal search engines, reducing reliance on costly external tools and enabling robust sim-to-real transfer. https://t.co/Mff57JHZWx",,,,4,2,28,1,1507,7,258,33
+1960735902570791229,Wed Aug 27 16:07:22 +0000 2025,"ByteDance researchers just released TreePO.
+
+It's a novel reinforcement learning framework for LLMs that uses a tree-based search to generate reasoning paths, significantly boosting efficiency and performance. https://t.co/AnTdEtlyMN",,,,5,2,27,0,3938,13,233,28
+1965869860790944217,Wed Sep 10 20:07:53 +0000 2025,"UMO uses an innovative multi-to-multi matching RL paradigm on diffusion models for robust identity preservation &amp; less confusion.
+
+Code &amp; models are open-sourced by ByteDance!
+Paper: https://t.co/K1FcKYUNSb
+Model: https://t.co/jZWsPDVkBD
+Demo: https://t.co/ZMVDQNzVwE",,"https://huggingface.co/papers/2509.06818, https://huggingface.co/bytedance-research/UMO, https://huggingface.co/spaces/bytedance-research/UMO_UNO",,0,0,3,0,651,0,275,31
+1956935608128942317,Sun Aug 17 04:26:21 +0000 2025,"Dive deep into algorithmic design, reward engineering, and benchmark progress.
+
+Identify open challenges like sample efficiency, generalization, &amp; safe deployment.
+
+Read the survey: https://t.co/HmHYCmElfW
+GitHub: https://t.co/Difna2IYY4",,"https://huggingface.co/papers/2508.08189, https://github.com/weijiawu/Awesome-Visual-Reinforcement-Learning",,1,0,4,0,783,8,241,26
+1959890508022518269,Mon Aug 25 08:08:04 +0000 2025,"AgentFly redefines how LLM agents learn: memory-based online reinforcement learning allows for low-cost, real-time adaptation.
+
+Achieves SoTA on GAIA (87.88% Pass@3) &amp; DeepResearcher benchmarks.
+
+Code: https://t.co/fYd8dkvKz1
+
+Paper: https://t.co/JP8E3qB7HQ",,"https://github.com/Agent-on-the-Fly/AgentFly, https://huggingface.co/papers/2508.16153",,2,0,7,0,937,11,261,28
+1963214818854482042,Wed Sep 03 12:17:42 +0000 2025,"SimpleTIR tackles multi-turn RL instability by filtering 'void turns' &amp; preventing catastrophic gradient explosions.
+
+It boosts AIME24 scores from 22.1 to 50.5 with Qwen2.5-7B models!
+
+Learn more:
+📄 https://t.co/hofKg7ErOb
+✨ Models: https://t.co/evdWeIbSJx",,"https://huggingface.co/papers/2509.02479, https://huggingface.co/collections/ZhenghaiXue/simpletir-686ce09ae6e1db33b375f03d",,1,0,6,0,521,0,260,32
+1960192778211893747,Tue Aug 26 04:09:11 +0000 2025,"Explore InternVL3.5: +16% reasoning perf. with Cascade RL &amp; 4.05x faster inference via ViR + DvD.
+
+All models &amp; code are open source!
+
+Paper: https://t.co/K5tKLAmD91
+Demo: https://t.co/gyB8Ien2Qm",,"https://huggingface.co/papers/2508.18265, https://huggingface.co/spaces/OpenGVLab/InternVL",,1,0,7,0,1617,7,203,27
+1957368722554749152,Mon Aug 18 09:07:24 +0000 2025,"Thyme achieves SoTA performance with unprecedented data efficiency.
+
+Trained with a novel 2-stage SFT+RL strategy using GRPO-ATS.
+
+Explore the paper, models &amp; data on the Hub:
+📄 https://t.co/w1JMLFMzd4
+🤖 https://t.co/riW5KkbZMG
+📊 https://t.co/MZgslqYHp9",,"https://huggingface.co/papers/2508.1163, https://huggingface.co/Kwai-Keye/Thyme-RL, https://huggingface.co/datasets/Kwai-Keye/Thyme-RL",,0,0,1,0,549,0,257,32
+1962729033231151597,Tue Sep 02 04:07:21 +0000 2025,"PVPO enhances RL with an advantage reference anchor &amp; data pre-sampling.
+
+This reduces computational cost while maintaining high accuracy, outperforming baselines like GRPO.
+
+Paper: https://t.co/kHsY7vGzDG",,https://huggingface.co/papers/2508.21104,,1,0,5,0,775,2,209,25
+1971607402068787323,Fri Sep 26 16:06:50 +0000 2025,"How to make LLM agents smarter with less data?
+
+Tree-GRPO from Alibaba Group's AMAP-ML introduces a novel tree-search RL framework, drastically cutting rollout budgets and boosting performance in complex multi-turn tasks. https://t.co/jg0A8WitZe",,,,4,1,8,0,710,7,245,32
+1972575804501672446,Mon Sep 29 08:14:55 +0000 2025,"New: Quantile Advantage Estimation for Entropy-Safe Reasoning
+
+This minimal one-line change to RL training stabilizes LLM reasoning by preventing entropy collapse &amp; explosion, achieving sustained state-of-the-art performance with sparse credit assignment. https://t.co/Kdqn9RHLwW",,,,4,3,16,0,1132,9,283,32
+1961279525544681897,Fri Aug 29 04:07:32 +0000 2025,"Explore Pref-GRPO for stable T2I RL &amp; UniGenBench, a comprehensive T2I benchmark, on Hugging Face!
+
+Paper: https://t.co/c28ghJcn7u
+Model: https://t.co/3MrTGNAdzm
+Leaderboard: https://t.co/5vHIMAZrQB",,"https://huggingface.co/papers/2508.20751, https://huggingface.co/CodeGoat24/FLUX.1-dev-PrefGRPO, https://huggingface.co/spaces/CodeGoat24/UniGenBench_Leaderboard",,3,0,3,0,780,0,202,21
+1956935598372999489,Sun Aug 17 04:26:19 +0000 2025,"Explore the rapidly evolving landscape of Reinforcement Learning in Vision!
+
+A new comprehensive survey synthesizes over 200 works into four pillars: Multi-Modal LLMs, Visual Generation, Unified Models, &amp; Vision-Language-Action Models. https://t.co/zWV9Kr6hsl",,,,12,4,38,1,2500,18,263,31
+1953612249794302200,Fri Aug 08 00:20:31 +0000 2025,"Introducing VL-DAC, a new hyperparameter-free RL algorithm for Vision-Language Models.
+
+It trains in cheap synthetic worlds and delivers measurable gains on real-world benchmarks for interactive agents. https://t.co/X4GTZ5Km3C",,,,0,1,7,0,769,3,226,27
+1956632053023170916,Sat Aug 16 08:20:08 +0000 2025,"New research from Alibaba Group and leading universities dives deep into Reinforcement Learning for LLM reasoning.
+
+Surprisingly, they find a minimalist approach with just two core techniques can unlock powerful new capabilities. https://t.co/RNJmRtCWw9",,,,16,3,131,0,7616,89,253,33
+1953548636211884418,Thu Aug 07 20:07:44 +0000 2025,"New from Nebius AI and Humanoid: a breakthrough in training long-context, multi-turn software engineering agents with Reinforcement Learning.
+
+This agent doubles the success rate on SWE-bench Verified, without relying on any teacher models! https://t.co/jJnMaxKNv8",,,,1,1,7,0,582,3,264,34
+1955787487407956400,Thu Aug 14 00:24:08 +0000 2025,"New paper: GUI-RCPO is here!
+
+Boosts GUI grounding accuracy by 2-5% without extra training data.
+
+It uses test-time reinforcement learning and spatial consistency for self-improvement during inference. https://t.co/aRFTcRCr2c",,,,1,2,5,0,633,4,225,28
+1953249915464786036,Thu Aug 07 00:20:44 +0000 2025,"DeepReinforce-AI introduces CRINN: A new RL framework automating approximate nearest-neighbor search optimization for lightning-fast retrieval.
+
+It achieves state-of-the-art speeds, up to 85% faster while maintaining high accuracy. https://t.co/PF8qAT0Oes",,,,6,2,24,0,1001,10,255,28
+1955603041518035358,Wed Aug 13 12:11:13 +0000 2025,"ByteDance &amp; Tsinghua University just unveiled ASearcher!
+
+Revolutionizes agentic search by enabling long-horizon reasoning with large-scale asynchronous RL.
+
+Goes beyond typical turn limits for complex, knowledge-intensive tasks. https://t.co/gq0sVI5VBS",,,,20,4,103,0,4371,53,257,28
+1953186214024032548,Wed Aug 06 20:07:36 +0000 2025,"ByteDance unveils ToolTrain, a new tool-integrated RL framework that redefines Repo Deep Search.
+
+It empowers LLMs to localize software issues with state-of-the-art precision, even outperforming Claude-3.7 on function-level tasks. https://t.co/rdRILOqQlo",,,,18,3,95,0,11380,69,254,30
+1953730097959383248,Fri Aug 08 08:08:48 +0000 2025,"A breakthrough in LLM fine-tuning just landed on Hugging Face!
+
+Introducing Dynamic Fine-Tuning (DFT): a simple, one-line code change dramatically boosts SFT generalization, outperforming complex RL methods.
+
+It achieves SOTA with *less* data! https://t.co/rLNYokUqqt",,,,16,1,76,2,3065,50,267,34
+1953974360382853248,Sat Aug 09 00:19:25 +0000 2025,"Microsoft just released Agent Lightning on Hugging Face.
+
+Train ANY AI agents with Reinforcement Learning with almost ZERO code change!
+
+A flexible and extensible framework that fully decouples agents from RL training. https://t.co/q24StQIiZL",,,,13,3,83,2,7942,81,242,33
+1956207819960500674,Fri Aug 15 04:14:23 +0000 2025,"Tencent and BUPT just released We-Math 2.0 on Hugging Face.
+
+A versatile MathBook System integrating structured knowledge, model-centric data, and RL to supercharge MLLM visual mathematical reasoning. https://t.co/r1gTTNFhew",,,,8,1,19,0,992,8,224,28
+1954760329956896843,Mon Aug 11 04:22:35 +0000 2025,"InfiGUI-G1 is here!
+
+Amazon Research and https://t.co/K3yScUCvDQ introduce a new SOTA framework for robust GUI grounding.
+
+AEPO overcomes exploration bottlenecks in RL by enabling multi-answer generation and adaptive rewards for semantic alignment! https://t.co/uunrPhlRKM",,http://InfiX.ai,,0,1,9,0,786,2,272,33
+1953249925052907806,Thu Aug 07 00:20:46 +0000 2025,"CRINN treats ANNS optimization as an RL problem, self-generating faster implementations.
+
+Discover adaptive search, multi-level prefetching &amp; more.
+
+Read the paper &amp; explore the code:
+https://t.co/q668kyNrVu
+https://t.co/MgbIHpJuuc",,"https://huggingface.co/papers/2508.02091, https://github.com/deepreinforce-ai/crinn",,0,0,1,0,448,0,239,27
+1954153126086263061,Sat Aug 09 12:09:46 +0000 2025,"Sotopia-RL is here!
+
+From researchers at @Illinois_AI, @StanfordAI, @MIT_CSAIL, and @AllenAI, a novel RL framework for training socially intelligent LLMs.
+
+It uses utterance-level, multi-dimensional rewards for SOTA social goal completion!
+
+https://t.co/buWQouKaDt",,https://huggingface.co/papers/2508.03905,"MIT_CSAIL, AllenaI",1,0,11,0,981,6,264,31
+1967241891994595823,Sun Sep 14 14:59:51 +0000 2025,"@huggingface Sharing is Caring: Efficient LM Post-Training with Collective RL Experience Sharing
+
+https://t.co/oWhnASKPNw",,https://x.com/HuggingPapers/status/1966657566328689092,huggingface,0,1,2,0,345,0,121,13
+1956632062816907432,Sat Aug 16 08:20:10 +0000 2025,"""Tricks or Traps?"" systematically reviews RL techniques, offering clear guidelines for practitioners.
+
+It shows how a ""Lite PPO"" (advantage normalization &amp; token-level loss aggregation) outperforms complex methods.
+
+Paper: https://t.co/yvxbPNihim
+Code: https://t.co/3jQzB2kH9e",,"https://huggingface.co/papers/2508.08221, https://github.com/yuyijiong/hard_retrieval_for_llm",,0,0,8,0,912,7,280,31
+1973782815742341529,Thu Oct 02 16:11:09 +0000 2025,"Learn more about how Knapsack RL reallocates exploration budgets to drive significant gains on math reasoning benchmarks. This innovative work is published directly on Hugging Face Paper pages.
+
+Explore the paper: https://t.co/SlrGv0CGvt",,https://huggingface.co/papers/2509.25849,,0,0,2,0,538,0,237,32
+1955179549009863129,Tue Aug 12 08:08:24 +0000 2025,"ReasonRank tackles reasoning-intensive ranking by synthesizing high-quality data &amp; a 2-stage (SFT+RL) pipeline with a novel multi-view reward. It achieves SOTA performance on BRIGHT.
+
+Find models &amp; data on @HuggingFace!
+Paper: https://t.co/S6MrhuNAh5",,https://huggingface.co/papers/2508.07050,huggingface,0,0,3,0,525,1,258,32
+1964722132816113989,Sun Sep 07 16:07:13 +0000 2025,"DCPO introduces adaptive clipping (10x less token clipping!) &amp; smooth advantage standardization (+28% non-zero gradient usage). It's SoTA on AIME24, doubling DAPO's training speed!
+
+Paper: https://t.co/7L7JzznKFN
+Code: https://t.co/o91qhvwXye",,"https://huggingface.co/papers/2509.02333, https://github.com/lime-RL/DCPO",,0,0,7,0,612,3,246,28
+1973095431820419156,Tue Sep 30 18:39:43 +0000 2025,"This 4B model achieves over 98% safety rate on WildGuard, with minimal refusals, thanks to a hybrid RL reward.
+
+Get the model: https://t.co/RlsEQdovq2
+Read the full report: https://t.co/glhNwpsRQH",,"https://huggingface.co/Qwen/Qwen3-4B-SafeRL, https://github.com/QwenLM/Qwen3Guard/blob/main/Qwen3Guard_Technical_Report.pdf",,1,0,11,0,689,5,196,28

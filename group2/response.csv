@@ -1,0 +1,412 @@
+id,createdAt,text,hashtags,urls,user_mentions,retweetCount,replyCount,likeCount,quoteCount,viewCount,bookmarkCount
+1966775878878449699,Sat Sep 13 08:08:05 +0000 2025,Alibaba &amp; collaborators just released FLUX-Reason-6M &amp; PRISM-Bench on Hugging Face: a colossal dataset &amp; benchmark to propel reasoning in text-to-image generation. https://t.co/FurudMrtdh,,,,21,1,108,0,4918,35
+1968527551703433595,Thu Sep 18 04:08:36 +0000 2025,"GenExam: The first multidisciplinary text-to-image exam is now on Hugging Face
+
+This new benchmark challenges T2I models with 1,000 rigorous, exam-style prompts across 10 subjects. It comes with ground-truth images and detailed scoring for semantic correctness and visual plausibility.",,,,6,2,46,0,9103,19
+1970281998221459600,Tue Sep 23 00:20:09 +0000 2025,"SpatialGen: Layout-guided 3D Indoor Scene Generation
+
+Generate stunning, photo-realistic 3D indoor scenes from a simple layout, controlled by text or an image! This new multi-view, multi-modal diffusion model achieves superior results & comes with a massive 4.7M rendering dataset.",,,,2,1,16,1,981,8
+1968044452062097617,Tue Sep 16 20:08:56 +0000 2025,"LazyDrag: Stable Drag-Based Editing on Diffusion Transformers
+
+This new method eliminates implicit point matching for precise control and text guidance. No more costly test-time optimization! Achieve complex edits like opening mouths, adding objects, or context-aware changes with unprecedented stability & fidelity.",,,,3,1,25,0,1274,8
+1969796242415747569,Sun Sep 21 16:09:55 +0000 2025,"Meta unveils IGPO for Diffusion LLMs
+
+A new RL framework leveraging inpainting to guide exploration &amp; boost efficiency. Achieves new SoTA on math benchmarks like GSM8K, Math500, and AMC with reliable performance. https://t.co/b23XZmtU15",,,,5,1,9,0,832,3
+1968107216939938004,Wed Sep 17 00:18:20 +0000 2025,"MIT &amp; Toyota unveil a core secret of image diffusion models
+
+The 'locality' driving generalization in deep diffusion models isn't due to CNN inductive bias. Our research shows it emerges directly from dataset statistics, leading to improved analytical denoisers. https://t.co/nvhOjGh1Pf",,,,4,1,15,0,989,7
+1967501694805201327,Mon Sep 15 08:12:13 +0000 2025,"InfGen: Generating stunning images at *any* resolution
+
+This new paradigm cuts 4K image generation time to under 10 seconds! It replaces VAE decoders with a one-step generator, empowering existing diffusion models for scalable, high-fidelity synthesis without retraining. https://t.co/zSVgR2LSEn",,,,3,1,25,0,1397,10
+1968972092445008183,Fri Sep 19 09:35:03 +0000 2025,"ByteDance just released Magic Bench on Hugging Face
+
+A comprehensive evaluation dataset for text-to-image generation models with 377 prompts,
+bilingual support, and 9 detailed annotation dimensions.
+
+https://t.co/nY4RIpaklh",,https://huggingface.co/datasets/ByteDance-Seed/MagicBench,,4,1,28,1,1433,6
+1970339765477109902,Tue Sep 23 04:09:41 +0000 2025,"ByteDance's OmniInsert for Mask-Free Video Editing
+
+This novel Diffusion Transformer framework allows seamless insertion of subjects into videos, handling single or multiple references with unparalleled consistency and quality. It even beats commercial solutions! https://t.co/DRZgetVO8T",,,,2,1,11,0,843,4
+1963635300351316416,Thu Sep 04 16:08:32 +0000 2025,"ByteDance introduces MOSAIC, a new framework for multi-subject personalized image generation.
+
+It tackles identity blending and attribute leakage, maintaining high fidelity and coherence even with 4+ subjects. https://t.co/P2Bb9kdcoF",,,,1,2,7,0,504,3
+1965447418440262056,Tue Sep 09 16:09:15 +0000 2025,"Princeton University &amp; Gen-Verse unveil TraceRL: a new RL framework for Diffusion LLMs, achieving state-of-the-art reasoning with unprecedented data efficiency! https://t.co/KLq1goCMZT",,,,15,1,95,0,11474,46
+1972332903716606089,Sun Sep 28 16:09:43 +0000 2025,"NVIDIA introduces Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation
+
+This self-distillation framework distills implicit 3D knowledge from video diffusion models into explicit 3D Gaussian Splatting, without needing multi-view training data. Generate 3D/4D scenes from a single image or video.",,,,10,3,41,2,2691,18
+1969796678585561360,Sun Sep 21 16:11:39 +0000 2025,"IGPO: Inpainting Guides Policy Optimization for Diffusion LLMs
+
+A new RL framework for masked diffusion LLMs leverages inpainting to guide exploration and overcome sparse rewards. It strategically inserts partial ground-truth traces, achieving new state-of-the-art on math benchmarks.",,,,5,1,15,0,1003,4
+1965991124734193820,Thu Sep 11 04:09:45 +0000 2025,"China's ByteDance introduces RewardDance.
+
+A scalable reward modeling framework for visual generation that tackles reward hacking and mode collapse.
+
+It achieves state-of-the-art results in text-to-image, text-to-video, and image-to-video generation by aligning reward objectives with VLM architectures.",,,,3,1,10,0,1143,4
+1972094827803078943,Sun Sep 28 00:23:41 +0000 2025,"VideoFrom3D: Revolutionizing 3D scene video generation!
+
+This framework combines image &amp; video diffusion models to craft photorealistic, style-consistent videos from coarse geometry, camera paths, &amp; reference images. No paired 3D datasets needed, streamlining 3D graphic design. https://t.co/d5ub0XZZ7H",,,,31,6,146,2,18923,85
+1970218832951119923,Mon Sep 22 20:09:09 +0000 2025,"LZN improves SOTA image generation (FID to 2.59 on CIFAR10), outperforms MoCo/SimCLR in representation learning, &amp; achieves SOTA classification!
+
+NeurIPS 2025 paper: https://t.co/yVJ4lW0KrC
+Models &amp; code: https://t.co/rshczZvR55",,"https://huggingface.co/papers/2509.15591, https://huggingface.co/microsoft/latent-zoning-networks",,0,0,14,0,1174,4
+1963695521282879847,Thu Sep 04 20:07:50 +0000 2025,"Face-MoGLE just dropped! This Diffusion Transformer masters controllable face generation, offering incredible photorealism and precise semantic control via masks and text prompts. https://t.co/t1zxP734PI",,,,1,1,3,0,587,4
+1967501704405848340,Mon Sep 15 08:12:15 +0000 2025,"Explore InfGen, the new resolution-agnostic paradigm that unlocks rapid 4K image synthesis and transforms existing diffusion models.
+
+Learn more about InfGen on Hugging Face:
+
+https://t.co/KIDQCvblRH",,https://huggingface.co/papers/2509.10441,,0,0,7,0,822,3
+1964601470931644669,Sun Sep 07 08:07:45 +0000 2025,"GenCompositor: A Diffusion Transformer leveraging ERoPE for pixel-perfect video compositing.
+
+Achieves SOTA fidelity &amp; consistency.
+
+Paper: https://t.co/PkqkUMMqmm
+Model: https://t.co/7eiRPk7Bdk",,"https://huggingface.co/papers/2509.02460, https://huggingface.co/TencentARC/GenCompositor",,3,0,10,0,871,2
+1969131958174138371,Fri Sep 19 20:10:18 +0000 2025,"It's a game-changer for high-fidelity image generation! Learn how ST-AR improves FID by nearly 50% and pushes the boundaries of visual semantics.
+
+Explore the full paper on Hugging Face: https://t.co/NrE2i58Odr",,https://huggingface.co/papers/2509.15185,,0,0,15,0,1094,5
+1960253548656001409,Tue Aug 26 08:10:40 +0000 2025,"Alibaba Group introduces Visual-CoG on Hugging Face.
+
+It's a novel reinforcement learning framework that tackles complex text-to-image prompts with stage-aware guidance.
+
+Unlocking superior control and accuracy in visual generation. https://t.co/tAjqq0PHZW",,,,1,2,14,0,966,6
+1959166721685602762,Sat Aug 23 08:12:00 +0000 2025,"Tinker unveils generalizable 3D editing, powered by diffusion models. Get stunning, multi-view consistent results from just a few images, no per-scene optimization needed! https://t.co/iGhI7UTbX6",,,,1,0,12,0,951,4
+1959047666978918806,Sat Aug 23 00:18:55 +0000 2025,"Alibaba and Tsinghua University introduce S²-Guidance on Hugging Face!
+
+This training-free method revolutionizes diffusion models, boosting text-to-image and text-to-video generation quality.
+
+Outperforms CFG for stunning, coherent outputs. https://t.co/gqFIV1YUWO",,,,3,1,12,0,937,3
+1960373414633369693,Tue Aug 26 16:06:58 +0000 2025,"Hugging Face unveils T2I-ReasonBench!
+
+A new benchmark that pushes text-to-image models to ""think"" with complex prompts across idiom, design, entity, and scientific reasoning.
+
+How smart are our generative models really? https://t.co/YsLTFeu7d5",,,,3,1,15,0,767,7
+1960313628395024436,Tue Aug 26 12:09:24 +0000 2025,"MV-RAG is here, advancing text-to-3D generation on Hugging Face!
+
+It brilliantly tackles out-of-domain concepts like ""Bolognese dog"" and ""Labubu doll"" by augmenting multiview diffusion with real-world image retrieval. https://t.co/45RVFDkPKC",,,,3,1,14,0,897,2
+1961279516094996926,Fri Aug 29 04:07:30 +0000 2025,"Tencent researchers just launched Pref-GRPO on Hugging Face.
+
+It's a new method that tackles 'reward hacking' in text-to-image models for more stable and high-quality generation.
+
+See how it prevents issues that destabilize T2I outputs. https://t.co/I6LbDrTKnY",,,,4,1,22,0,1045,8
+1960977463481127262,Thu Aug 28 08:07:15 +0000 2025,"Huawei Cloud and partners introduce Discrete Diffusion VLA.
+
+A unified transformer for robotics, using discrete diffusion to decode actions from vision-language inputs.
+
+It achieves state-of-the-art performance, tackling robot tasks with unprecedented efficiency. https://t.co/T0LCRiMZAN",,,,0,2,8,0,774,1
+1960071708368585120,Mon Aug 25 20:08:06 +0000 2025,"Dive into EgoTwin: a cutting-edge diffusion framework that generates hyper-realistic egocentric videos and human motion, dreaming body and view in first person! https://t.co/zX8fImTosc",,,,3,1,11,0,1569,5
+1962186201730887915,Sun Aug 31 16:10:20 +0000 2025,"New breakthrough!
+
+Researchers from Google DeepMind and Max Planck Institute unveil Prophet, a method to turbocharge Diffusion Language Models.
+
+It leverages ""early answer convergence"" for up to 3.4x faster inference with no accuracy loss! https://t.co/n5JVmZoYAD",,,,7,2,29,0,1463,13
+1958140173146861829,Wed Aug 20 12:12:52 +0000 2025,"MultiRef: The first comprehensive benchmark for controllable image generation using MULTIPLE visual references! ✨
+
+Current SOTA models struggle with blending diverse inputs, opening new avenues for truly human-like creative AI.
+
+Accepted to ACM MM 2025! https://t.co/M67H1XyZ1k",,,,1,1,21,0,896,5
+1961401129725559235,Fri Aug 29 12:10:45 +0000 2025,"ByteDance's UXO Team unveils USO: a unified model for flexible, high-fidelity image generation, seamlessly blending any subject with any style.
+
+Imagine the creative possibilities! https://t.co/q8azH2GUJk",,,,0,2,8,0,826,4
+1959227611902841042,Sat Aug 23 12:13:58 +0000 2025,"Learn how Tinker leverages pre-trained diffusion models for latent 3D awareness to achieve SoTA results.
+
+A key step towards scalable, zero-shot 3D editing.
+
+Discuss with the authors on Hugging Face:
+https://t.co/1oGmlkLY84",,https://huggingface.co/papers/2508.14811,,0,0,4,0,782,3
+1960977472800903456,Thu Aug 28 08:07:17 +0000 2025,"Discover how Discrete Diffusion VLA brings a unified, scalable architecture to robot action decoding.
+
+Its adaptive easy-to-hard strategy &amp; robust error correction improve over prior methods.
+
+Read the paper for full details:
+https://t.co/v0eJ4M0WkT",,https://huggingface.co/papers/2508.20072,,0,0,2,0,514,1
+1956510772193902824,Sat Aug 16 00:18:12 +0000 2025,"This novel hybrid objective bridges continuous semantic space and discrete token supervision, eliminating diffusion samplers.
+Released with full training code &amp; pretrained checkpoints for reproducibility.
+
+Paper: https://t.co/FNlhMpHsqN",,https://huggingface.co/papers/2508.05305,,0,0,1,0,541,2
+1962186211545514122,Sun Aug 31 16:10:23 +0000 2025,"Discover how Prophet enables Diffusion LMs to know the answer before decoding.
+
+Read the paper &amp; access the code:
+Paper: https://t.co/0SmNRQV1WN
+Code: https://t.co/DuE2yGrPqj",,"https://huggingface.co/papers/2508.19982, https://github.com/pixeli99/Prophet",,0,0,1,0,716,0
+1968107226662412535,Wed Sep 17 00:18:23 +0000 2025,"Dive into the details of how @MIT and @ToyotaResearch cracked this fundamental challenge in image generation!
+
+Explore the paper on Hugging Face:
+https://t.co/Lq0JRzx2Uh
+
+Code coming soon to GitHub:
+https://t.co/mpRVE42B1q",,"https://huggingface.co/papers/2509.09672, https://github.com/ottogin/locality-in-diffusion-models","MIT, ToyotaResearch",0,0,5,0,620,2
+1972332913187332178,Sun Sep 28 16:09:45 +0000 2025,"NVIDIA's Lyra enables generative 3D/4D scene reconstruction through video diffusion model self-distillation. Creates 3D Gaussian Splatting from single images/videos for real-time rendering.
+
+Paper: https://t.co/NTASnFJQVD
+Dataset: https://t.co/bztS1vaUqP",,"https://huggingface.co/papers/2509.19296, https://huggingface.co/datasets/nvidia/PhysicalAI-SpatialIntelligence-Lyra-SDG",,0,0,2,0,793,3
+1974688371340648857,Sun Oct 05 04:09:30 +0000 2025,"Self-Forcing++ for minute-scale video generation
+
+ByteDance's new method generates high-quality videos up to 4 min 15 sec! It scales diffusion models without long-video teachers or retraining, preserving fidelity and consistency. https://t.co/L6HYcHpG0v",,,,0,1,0,0,41,0
+1971007213218009474,Thu Sep 25 00:21:53 +0000 2025,"ByteDance Seed unveils Hyper-Bagel for blazing-fast multimodal AI
+
+This unified framework accelerates understanding and generation with speculative decoding & distillation. Achieves 2x speedup in understanding, 16.67x for text-to-image, & 22x for image editing while preserving quality!",,,,2,1,5,0,884,5
+1956266990110167326,Fri Aug 15 08:09:30 +0000 2025,"Explore NextStep-1 by @StepFunAI: a 14B autoregressive model for top-tier image generation &amp; editing.
+
+It processes continuous image tokens for unmatched fidelity!
+
+Paper: https://t.co/Oai53n3LpP
+Models &amp; code: https://t.co/fZZmErul1j",,"https://huggingface.co/papers/2508.10711, https://huggingface.co/collections/stepfun-ai/nextstep-1-689d80238a01322b93b8a3dc",stepfunai,4,1,9,0,532,5
+1953005437495726578,Wed Aug 06 08:09:16 +0000 2025,"Skywork AI's UniPic: a 1.5B autoregressive model unifying visual understanding, text-to-image generation, &amp; image editing.
+
+Achieves SOTA performance on RTX 4090 (&lt;15GB VRAM). One architecture, no task-specific adapters! https://t.co/bF0nUYpc5k",,,,9,1,50,1,2183,19
+1952280882393616723,Mon Aug 04 08:10:08 +0000 2025,"ByteDance and Nanjing University present PixNerd: a powerful pixel neural field diffusion model for stunning image generation, skipping VAEs and complex cascades. Leads to high FIDs. https://t.co/UTh3ZWcgT9",,,,15,2,107,1,6895,46
+1955723639568875862,Wed Aug 13 20:10:25 +0000 2025,"New research from Zhejiang University reveals a surprising 'temporal oscillation' in diffusion LLMs.
+
+Correct answers often appear mid-process, only to be overwritten!
+
+This work introduces techniques to harness these hidden temporal dynamics, significantly boosting performance. https://t.co/eT1EGLujQA",,,,6,1,28,0,1339,13
+1956025189222830487,Thu Aug 14 16:08:40 +0000 2025,"Story2Board just landed on Hugging Face!
+
+Generate expressive, multi-panel storyboards from text with consistent characters and dynamic scenes.
+
+This training-free framework enhances diffusion models for coherent visual storytelling, without fine-tuning. https://t.co/5vNMLf9zv9",,,,0,1,9,0,583,7
+1954878009015414922,Mon Aug 11 12:10:11 +0000 2025,"Introducing Voost, a unified Diffusion Transformer for virtual try-on and try-off.
+
+It learns both tasks jointly, enabling scalable training and enhancing garment-body correspondence.
+
+Achieving state-of-the-art results on diverse in-the-wild images. https://t.co/LAY9expoDr",,,,19,8,117,2,13055,77
+1954455010097738015,Sun Aug 10 08:09:21 +0000 2025,"Mizzen AI introduces HPSv3, a new wide-spectrum human preference score model for text-to-image generation.
+
+It includes a massive 1.08M image-text dataset and a novel iterative refinement method. https://t.co/kxt1VCCYAB",,,,10,3,66,0,3694,26
+1956149891518095574,Fri Aug 15 00:24:12 +0000 2025,"ByteDance researchers just dropped Echo-4o!
+
+It's a new image generation model that harnesses GPT-4o synthetic data to excel in surreal fantasy &amp; multi-reference scenarios.
+
+Unlocking truly imaginative content like never before. https://t.co/qYYDMDFvRN",,,,19,6,129,1,5539,48
+1953850602254926052,Fri Aug 08 16:07:39 +0000 2025,"Meet GE-Base (video diffusion for robotic interactions), GE-Act (latent-to-action mapping), and GE-Sim (action-conditioned neural simulator).
+
+All code, models, and benchmarks will be publicly released on @HuggingFace!
+
+Paper: https://t.co/qsXvitUyuk",,https://huggingface.co/papers/2508.05635,huggingface,1,0,1,0,435,1
+1953066153141481690,Wed Aug 06 12:10:31 +0000 2025,"ByteDance Seed just unveiled Seed Diffusion, a large-scale diffusion language model.
+
+It achieves an incredible 2,146 tokens/s on H20 GPUs, setting a new state of the art for high-speed, high-quality code generation. https://t.co/y5YA3xMmTg",,,,8,1,23,0,1000,9
+1952225445950472272,Mon Aug 04 04:29:51 +0000 2025,"New research tackles a key limitation in Diffusion Large Language Models!
+
+Introducing DAEDAL: a training-free strategy for dynamic, variable-length text generation.
+
+No more fixed output lengths or wasted compute. https://t.co/2wJiMrkxcE",,,,5,1,26,0,1471,13
+1954878018779750805,Mon Aug 11 12:10:14 +0000 2025,"Explore Voost's unified approach to virtual try-on and try-off!
+
+Zero extra networks or labels, pure Diffusion Transformer power.
+
+Try the demo &amp; read the paper on Hugging Face.
+
+Paper: https://t.co/N9PWbZ5Jvh
+Demo: https://t.co/fED1bKZmDU",,"https://huggingface.co/papers/2508.04825, https://huggingface.co/spaces/NXN-Labs/Voost",,1,0,9,0,809,5
+1954515775710175406,Sun Aug 10 12:10:48 +0000 2025,"Microsoft Research Asia just released Gaussian Variation Field Diffusion on Hugging Face!
+
+This new framework enables high-fidelity video-to-4D synthesis, creating dynamic 3D content from single video inputs. https://t.co/rhnfeIKkCq",,,,3,2,20,0,1368,15
+1952225455534379301,Mon Aug 04 04:29:53 +0000 2025,"DAEDAL enables Diffusion LLMs to dynamically adapt output length, boosting efficiency and performance without training.
+
+Explore the full paper on Hugging Face:
+https://t.co/aPqeVt656H
+
+Code: https://t.co/DOrnAosEeS",,"https://huggingface.co/papers/2508.00819, https://github.com/Li-Jinsong/DAEDAL",,0,0,3,0,646,4
+1953066163002339345,Wed Aug 06 12:10:34 +0000 2025,"Explore Seed Diffusion's groundbreaking speed and performance.
+
+This new discrete-state diffusion model is now available on Hugging Face!
+
+Paper: https://t.co/CGuTFdU2jX
+Try the demo: https://t.co/GuGO4927qG",,"https://huggingface.co/papers/2508.02193, https://studio.seed.ai/exp/seed_diffusion/",,0,0,4,0,497,1
+1958140183116710381,Wed Aug 20 12:12:54 +0000 2025,"Dive into MultiRef!
+
+Explore MultiRef-bench, the first comprehensive benchmark for controllable image generation using MULTIPLE visual references.
+
+Datasets with 38K images & 1000 real-world samples now on Hugging Face:
+➡️ https://t.co/qizDza0QNi
+➡️ https://t.co/DWbVVmCrfj
+📄 https://t.co/rytAeUUcPZ",,"https://huggingface.co/datasets/ONE-Lab/MultiRef-dataset, https://huggingface.co/datasets/ONE-Lab/MultiRef-benchmark, https://huggingface.co/papers/2508.06905",,0,0,1,0,492,1
+1956266979678953523,Fri Aug 15 08:09:28 +0000 2025,"StepFun AI just unveiled NextStep-1, a breakthrough in autoregressive image generation!
+
+It uses continuous tokens to bypass VQ loss, creating incredibly high-fidelity images.
+
+Like this Iron Man panda! Get ready for stunning visual synthesis &amp; editing capabilities. https://t.co/VbyKnxoaAF",,,,4,2,15,0,811,11
+1971669137274614163,Fri Sep 26 20:12:08 +0000 2025,"ByteDance unveils Seedream 4.0: Next-gen multimodal image generation &amp; editing
+
+It unifies text-to-image synthesis, advanced editing, and multi-image composition, generating stunning 1K-4K images in seconds with state-of-the-art results. https://t.co/Czd2f8ylOz",,,,9,2,33,0,1155,13
+1956149901898998188,Fri Aug 15 00:24:14 +0000 2025,"Echo-4o uses its new Echo-4o-Image synthetic dataset to fill real-world blind spots for imaginative and complex image generation.
+
+New benchmarks: GenEval++ &amp; Imagine-Bench!
+
+Paper: https://t.co/SKS3JeFXEC
+Dataset: https://t.co/744f79Aexd",,"https://huggingface.co/papers/2508.09987, https://huggingface.co/datasets/Yejy53/Echo-4o-Image",,0,0,7,0,697,2
+1955483103507669347,Wed Aug 13 04:14:37 +0000 2025,"Matrix-3D combines cutting-edge video diffusion &amp; panoramic 3D reconstruction for limitless virtual exploration.
+
+Get the models and Matrix-Pano dataset directly on the Hub!
+
+Paper: https://t.co/TuKdrvAln9
+Models &amp; Data: https://t.co/jrT4xv7dSL",,"https://huggingface.co/papers/2508.08086, https://huggingface.co/Skywork/Matrix-3D",,0,0,1,0,649,3
+1971538719078277598,Fri Sep 26 11:33:54 +0000 2025,"Built on a Diffusion Transformer (DiT), Lynx ensures robust identity fidelity with lightweight ID- and Ref-adapters.
+
+Check out the model &amp; paper:
+https://t.co/hJG4nYTLr8
+https://t.co/PitwBjAOuy",,"https://huggingface.co/ByteDance/lynx, https://huggingface.co/papers/2509.15496",,0,0,6,0,606,2
+1949864365961740570,Mon Jul 28 16:07:46 +0000 2025,"Google introduces Deep Researcher with Test-Time Diffusion.
+
+A novel framework that redefines AI research report generation as an iterative diffusion process, inspired by human cycles of searching, reasoning, and revision. https://t.co/BFfBtI8E25",,,,45,3,244,4,20189,128
+1951374532733796681,Fri Aug 01 20:08:38 +0000 2025,"villa-X integrates proprioceptive FDM for grounded latent actions &amp; joint diffusion for better policy learning.
+
+It achieves superior performance in both simulation &amp; real-world robot setups.
+
+Paper: https://t.co/EJlkPbuvYm
+Models &amp; Code: https://t.co/9JmrAvV4gC",,"https://huggingface.co/papers/2507.23682, https://huggingface.co/microsoft/villa-x",,1,0,3,0,439,0
+1949864375570907289,Mon Jul 28 16:07:48 +0000 2025,"Deep Researcher with Test-Time Diffusion (TTD-DR).
+
+It treats research as a diffusion process: draft → iterative refinement via web search &amp; self-evolution.
+
+Achieves SOTA on complex queries! Code is public.
+
+Paper: https://t.co/NNHUqGK32v",,https://huggingface.co/papers/2507.16075,,1,0,14,0,948,6
+1950411785145655514,Wed Jul 30 04:23:01 +0000 2025,"Tencent Hunyuan X introduces X-Omni
+
+Reinforcement learning revolutionizes discrete autoregressive models, achieving state-of-the-art image generation with a 7B language model.
+
+It delivers high aesthetic quality, robust instruction following, and accurate long text rendering. https://t.co/ejYYsTIzrp",,,,7,1,29,1,1437,17
+1943643826771358022,Fri Jul 11 12:09:34 +0000 2025,"Introducing T-LoRA!
+
+Customize Diffusion Models with just one image, and say goodbye to overfitting.
+
+Achieve unmatched fidelity &amp; diversity. https://t.co/ytuO8zmSA0",,,,27,3,190,2,13155,138
+1948053139107492180,Wed Jul 23 16:10:36 +0000 2025,"New paper introduces RALU: Region-Adaptive Latent Upsampling!
+
+This training-free method dramatically accelerates Diffusion Transformers, delivering up to 7x speedup on FLUX &amp; 3x on Stable Diffusion 3.
+
+It upsamples only what matters, retaining stunning image quality. https://t.co/rPLuNREp5F",,,,30,3,145,3,15017,67
+1946726946068722056,Sun Jul 20 00:20:47 +0000 2025,"RiemannLoRA reframes LoRA fine-tuning as optimization on a smooth manifold, eliminating redundant parameters and guaranteeing an optimal starting point—leading to faster convergence and higher accuracy on both LLMs and diffusion models. https://t.co/428QxRoTO2",,,,5,1,32,0,2474,20
+1946364016676290800,Sat Jul 19 00:18:37 +0000 2025,"Vision Foundation Models as Effective Visual Tokenizers for Autoregressive Image Generation  
+
+Freeze a vision foundation model → add region-adaptive quantization → achieve 2.07 gFID on ImageNet, 3× faster convergence, high-fidelity images without CFG. https://t.co/PVGMQxnwKt",,,,3,1,24,1,1127,10
+1948053149144457499,Wed Jul 23 16:10:38 +0000 2025,"RALU is a game-changer for high-res image generation.
+
+It's training-free, preserves fidelity, and is complementary to existing temporal acceleration methods.
+
+Explore the paper &amp; details on Hugging Face:
+https://t.co/vRkBSSrTCv",,https://huggingface.co/papers/2507.08422,,0,0,8,1,959,4
+1942496200831148516,Tue Jul 08 08:09:18 +0000 2025,"NVIDIA and partners introduce 4DSloMo on Hugging Face!
+
+Reconstruct high-speed 4D scenes with an ingenious asynchronous capture scheme, achieving 100-200 FPS equivalent from standard low-FPS cameras.
+
+It leverages video diffusion for stunning, artifact-free results. https://t.co/VMBNzBatP0",,,,1,1,7,0,898,2
+1947206866485825708,Mon Jul 21 08:07:48 +0000 2025,The Devil behind the mask reveals a 100 % jailbreak success rate on diffusion LLMs using only masked prompts—no prompt hiding required. https://t.co/VmaERpakGM,,,,0,1,9,0,834,4
+1946904941806731318,Sun Jul 20 12:08:04 +0000 2025,"MindJourney
+
+A zero-fine-tune test-time scaling framework that couples vision-language models with a controllable video-diffusion world model, letting the VLM “walk around” in imagined 3D space before answering spatial-reasoning questions. https://t.co/tGFdf4rD7G",,,,1,1,9,0,806,5
+1946001506940960887,Fri Jul 18 00:18:08 +0000 2025,MOSPA listens to 3D audio and moves people where the sound is—first dataset &amp; diffusion model for spatial-audio-driven human motion. https://t.co/kZPYq1dFFx,,,,0,1,2,0,516,1
+1946602598041317529,Sat Jul 19 16:06:40 +0000 2025,"Alibaba released Lumos-1 on Hugging Face
+
+An autoregressive video generator that keeps the plain LLM backbone, adds MM-RoPE and AR-DF, and trains on only 48 GPUs to match the best diffusion models. https://t.co/ytg9P6cpOf",,,,1,1,5,0,459,2
+1947451925990965661,Tue Jul 22 00:21:35 +0000 2025,"CSD-VAR uses a new dataset, CSD-100, and outperforms diffusion-based methods in content preservation &amp; stylization fidelity!
+
+Watch their video demo: https://t.co/HF078osTlt
+
+Paper page: https://t.co/Rj6b59vyRm",,"https://cdn-uploads.huggingface.co/production/uploads/637ce55e43fec4c21633f9ad/0i972bwXyZ3xS6RUc9xYw.qt, https://huggingface.co/papers/2507.13984",,1,0,2,0,528,0
+1965869860790944217,Wed Sep 10 20:07:53 +0000 2025,"UMO uses an innovative multi-to-multi matching RL paradigm on diffusion models for robust identity preservation &amp; less confusion.
+
+Code &amp; models are open-sourced by ByteDance!
+Paper: https://t.co/K1FcKYUNSb
+Model: https://t.co/jZWsPDVkBD
+Demo: https://t.co/ZMVDQNzVwE",,"https://huggingface.co/papers/2509.06818, https://huggingface.co/bytedance-research/UMO, https://huggingface.co/spaces/bytedance-research/UMO_UNO",,0,0,3,0,651,0
+1942919024456642607,Wed Jul 09 12:09:27 +0000 2025,"SingLoRA outperforms LoRA &amp; variants:
+- 91.3% MNLI acc (LLaMA 7B) with 60% fewer params.
+- 0.151 DINO score on DreamBooth (Stable Diffusion).
+
+Read the paper: https://t.co/4BHh6szerP
+
+Share your research &amp; models on the Hugging Face Hub!",,https://huggingface.co/papers/2507.05566,,1,0,5,0,781,2
+1952642824391840064,Tue Aug 05 08:08:22 +0000 2025,"Experience next-gen image generation yourself!
+
+Technical Report: https://t.co/4dVCunb2p6
+Live Demo: https://t.co/gaUYensCgb",,"https://huggingface.co/papers/2508.02324, https://huggingface.co/spaces/Qwen/Qwen-Image",,0,0,1,0,500,1
+1974387379059212380,Sat Oct 04 08:13:28 +0000 2025,"Sea AI Lab introduces a new way for LLMs to learn from verbal feedback
+
+Their Feedback-Conditional Policy (FCP) treats feedback as a conditioning signal, inspired by text-to-image generation. This offers a more expressive and direct path for self-improvement, moving beyond scalar rewards.",,,,0,1,5,0,646,1
+1972877172055454067,Tue Sep 30 04:12:26 +0000 2025,"New breakthrough: SLA redefines Diffusion Transformer efficiency!
+
+Researchers from Tsinghua & UC Berkeley introduce Sparse-Linear Attention (SLA). It reduces DiT attention computation by 95% while maintaining generation quality, leading to a 13.7x kernel speedup & 2.2x end-to-end video generation boost! 🚀",,,,3,1,17,0,1007,4
+1942254282234790286,Mon Jul 07 16:08:00 +0000 2025,"""Lost in Latent Space"" presents an empirical study of latent diffusion models for physics emulation.
+
+They found surprisingly robust accuracy up to 1000x compression, enabling faster and more accurate simulations. https://t.co/yLyAleJBs9",,,,37,3,207,1,20918,111
+1936399599901749564,Sat Jun 21 12:23:35 +0000 2025,"Discrete Diffusion in Large Language and Multimodal Models: A Survey just released on Hugging Face
+
+Get an overview of research in discrete diffusion LLMs and MLLMs, which achieve performance comparable to autoregressive models with up to 10x faster inference! https://t.co/wG2VB3yvie",,,,93,6,376,1,12,260
+1944250483688042766,Sun Jul 13 04:20:12 +0000 2025,"Microsoft Research introduces Geometry Forcing!
+
+A groundbreaking method that teaches video diffusion models to truly understand and model the 3D world for consistent video generation.
+
+It bridges the gap between 2D video diffusion and underlying 3D reality.
+
+https://t.co/sTOmwKlaGn",,https://huggingface.co/papers/2507.07982,,2,0,16,0,1001,8
+1937935464562102340,Wed Jun 25 18:06:34 +0000 2025,"AnimaX breathes life into 3D models  
+
+A new framework that bridges video diffusion models with skeleton animation to create realistic motion from text prompts   
+
+Works with any articulated mesh or skeleton structure https://t.co/nTsf1Mvnoe",,,,0,1,7,0,656,3
+1939959254351548822,Tue Jul 01 08:08:23 +0000 2025,"Alibaba Group unveils Ovis-U1: a powerful 3-billion-parameter unified model for multimodal understanding, text-to-image generation, and image editing. https://t.co/0MJJuvzlap",,,,3,1,17,0,1202,6
+1940987244094894103,Fri Jul 04 04:13:15 +0000 2025,"Ant Group researchers just released LangScene-X on Hugging Face
+
+It's a novel framework for reconstructing generalizable 3D language-embedded scenes from sparse views.
+
+It unifies RGB, normal, and semantic map generation with TriMap Video Diffusion. https://t.co/Wi05MqgC0V",,,,0,1,2,0,535,2
+1936638967513809208,Sun Jun 22 04:14:45 +0000 2025,"New from Meta &amp; Virginia Tech: AR-RAG!
+
+A groundbreaking approach to image generation that uses autoregressive patch-level retrieval to create stunning, consistent images.
+
+Say goodbye to over-copying and stylistic bias! https://t.co/XHn0sdoDxp",,,,4,1,30,3,1511,13
+1939903454547255726,Tue Jul 01 04:26:39 +0000 2025,"New research from Kuaishou Technology:
+VMoBA is a game-changing sparse attention mechanism
+that dramatically accelerates video diffusion model training &amp; inference. https://t.co/pFrJHXxopw",,,,0,1,4,0,624,5
+1939176079467413619,Sun Jun 29 04:16:20 +0000 2025,"ViDAR: Video Diffusion-Aware 4D Reconstruction From Monocular Inputs
+
+A novel framework for Monocular Novel View Synthesis utilising a diffusion-aware reconstruction framework. https://t.co/gZocfZVCDE",,,,1,1,4,0,691,3
+1940565996122919194,Thu Jul 03 00:19:22 +0000 2025,"Apple just released DiffuCoder on Hugging Face.
+
+It's a 7B masked diffusion model for code generation, exploring how dLLMs decode and introducing coupled-GRPO for efficient RL training. https://t.co/57CiGDWsp4",,,,0,1,5,0,631,2
+1940928299468833240,Fri Jul 04 00:19:01 +0000 2025,"NVIDIA &amp; MIT-Han-Lab introduce LPD on Hugging Face!
+
+Locality-aware Parallel Decoding accelerates autoregressive image generation by over 3.4x, keeping top quality. https://t.co/f1qJdn4tw9",,,,3,2,19,1,1118,13
+1941166748184506812,Fri Jul 04 16:06:32 +0000 2025,Heeding the Inner Voice: Sber AI's InnerControl refines text-to-image spatial control by aligning diffusion models across all steps. https://t.co/14viFd6nhy,,,,0,1,5,0,453,0
+1938126346468655533,Thu Jun 26 06:45:04 +0000 2025,"Democratizing image generation: ShareGPT-4o-Image, a 91K dataset of GPT-4o synthesized images, aligns multimodal models with GPT-4o's capabilities in just 6 hours on an A800! https://t.co/WrK2jfHKCA",,,,1,2,10,0,774,3
+1939597052582752260,Mon Jun 30 08:09:07 +0000 2025,"BlenderFusion:  Google DeepMind's new framework for 3D-grounded visual editing &amp; generative compositing. Precisely edit visuals using Blender, then use a diffusion model for photorealistic results.
+
+https://t.co/hVtiREYvWL",,https://huggingface.co/papers/2506.17450,,1,0,13,1,1018,8
+1940864982536630376,Thu Jul 03 20:07:26 +0000 2025,"Image morphing just got a major upgrade!
+
+Introducing FreeMorph: a tuning-free diffusion model that seamlessly blends any two images.
+
+It's 10x-50x faster than previous methods, setting a new SOTA.
+
+https://t.co/ccyIXraobB",,https://huggingface.co/papers/2507.01953,,2,0,7,0,1436,4
+1936335020408357363,Sat Jun 21 08:06:58 +0000 2025,"Checkout out ""The Diffusion Duality"" on HF papers! https://t.co/rI1dHK2uDy 
+
+Also see the author's collection:
+https://t.co/wu2QkEdYAc",,"https://huggingface.co/papers/2506.10892, https://huggingface.co/collections/s-sahoo/duo-67f9ff8fde919224e5fbd875",,2,1,5,0,944,4
+1942254292359909798,Mon Jul 07 16:08:03 +0000 2025,"These diffusion-based emulators outperform non-generative counterparts and provide greater diversity in predictions.
+
+Read the full paper on Hugging Face: https://t.co/wpe6EX95qr
+
+Share your models and datasets on the Hub to empower the community!",,https://huggingface.co/papers/2507.02608,,0,0,11,0,1011,6
+1941712945605673070,Sun Jul 06 04:16:56 +0000 2025,"EBTs generalize System 2 thinking: verifying predictions via energy minimization. They scale faster, generalize better &amp; even outperform Diffusion Transformers with fewer passes.
+
+Read the paper: https://t.co/rpxOF4XP0B
+Code &amp; more: https://t.co/d2Mol6gV6m",,"https://huggingface.co/papers/2507.02092, https://github.com/alexiglad/ebt",,1,0,2,0,572,3
+1941166757877612762,Fri Jul 04 16:06:34 +0000 2025,"InnerControl enforces spatial consistency throughout the entire diffusion process, outperforming prior methods like ControlNet and ControlNet++.
+
+Datasets on the Hub ensure full reproducibility.
+
+Dive deeper: https://t.co/xtYNKcmaae",,https://huggingface.co/papers/2507.02321,,1,0,0,0,388,0
+1944731051135271223,Mon Jul 14 12:09:48 +0000 2025,"NeuralOS combines an RNN for state tracking and a diffusion model for rendering, trained on large-scale Ubuntu XFCE recordings.
+
+Explore the paper: https://t.co/8zEi8aLRI2
+
+Try the demo at https://t.co/mk5eg2NgOz! We'd love to see it hosted on a Hugging Face Space too! 🚀",,"https://huggingface.co/papers/2507.08800, https://neural-os.com",,0,0,1,0,426,0
+1974508095603900651,Sat Oct 04 16:13:09 +0000 2025,"Want to create stunning videos with speed?
+SANA-Video is your answer. It's a unified framework for text-to-video, image-to-video, &amp; text-to-image. Fully open-source!
+
+Read the paper: https://t.co/P7RngyD65K
+Explore the project: https://t.co/vbhyBNuZk8",,"https://huggingface.co/papers/2509.24695, https://nvlabs.github.io/Sana/Video",,0,0,1,0,472,0

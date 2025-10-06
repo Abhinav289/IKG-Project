@@ -1,0 +1,18 @@
+id,createdAt,text,hashtags,urls,user_mentions,retweetCount,replyCount,likeCount,quoteCount,viewCount,bookmarkCount,char_length,word_length
+1974268330455470092,Sat Oct 04 00:20:24 +0000 2025,"Variational Reasoning for LLMs
+
+This new framework optimizes thinking traces as latent variables via variational inference, unifying RL methods with a principled probabilistic view. Discover how it reveals a hidden bias towards easier questions &amp; improves reasoning on Qwen 2.5/3. https://t.co/vXAoAmytT8",,,,0,1,5,0,628,4,308,41
+1961340097040883794,Fri Aug 29 08:08:13 +0000 2025,"This breakthrough is thanks to efficient agentic RL, GRPO-RoC, and a multi-stage training recipe.
+
+rStar2-Agent-14B reaches state-of-the-art in just 510 RL steps!
+
+Read the report: https://t.co/yvgIFVBr0Z
+Model: https://t.co/SY8azTKs9B",,"https://huggingface.co/papers/2508.20722, https://huggingface.co/rstar2-reproduce/rStar2-Agent-14B",,3,0,13,1,1477,15,235,28
+1963091279090209254,Wed Sep 03 04:06:48 +0000 2025,"Introducing PACS, a novel framework that turns unstable RL with Verifiable Rewards (RLVR) into a stable supervised learning task for LLMs, achieving state-of-the-art performance on advanced reasoning. https://t.co/T8CJeTWX0G",,,,5,1,13,0,1158,7,224,28
+1963153169724461069,Wed Sep 03 08:12:43 +0000 2025,"New survey maps Agentic RL: turning LLMs into autonomous agents. Covers core capabilities (planning, tool use, memory, reasoning) &amp; diverse tasks across 500+ works. Essential open-source resources.
+
+Paper: https://t.co/brBOIN9rO9
+Resources: https://t.co/8FUbpUTHLS",,"https://huggingface.co/papers/2509.02547, https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers",,0,0,5,0,626,3,268,31
+1965266337128915188,Tue Sep 09 04:09:42 +0000 2025,"ReVPT introduces a breakthrough in visual reasoning: training multimodal LLMs with reinforcement learning to master external visual tools.
+
+It achieves state-of-the-art perception with incredible data efficiency. https://t.co/HsRhwLNS2E",,,,1,1,14,0,878,8,236,27

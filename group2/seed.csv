@@ -1,0 +1,14 @@
+id,createdAt,text,hashtags,urls,user_mentions,retweetCount,replyCount,likeCount,quoteCount,viewCount,bookmarkCount,char_length,word_length
+1939959254351548822,Tue Jul 01 08:08:23 +0000 2025,"Alibaba Group unveils Ovis-U1: a powerful 3-billion-parameter unified model for multimodal understanding, text-to-image generation, and image editing. https://t.co/0MJJuvzlap",,,,3,1,17,0,1202,6,174,18
+1956266979678953523,Fri Aug 15 08:09:28 +0000 2025,"StepFun AI just unveiled NextStep-1, a breakthrough in autoregressive image generation!
+
+It uses continuous tokens to bypass VQ loss, creating incredibly high-fidelity images.
+
+Like this Iron Man panda! Get ready for stunning visual synthesis &amp; editing capabilities. https://t.co/VbyKnxoaAF",,,,4,2,15,0,811,11,294,38
+1946726946068722056,Sun Jul 20 00:20:47 +0000 2025,"RiemannLoRA reframes LoRA fine-tuning as optimization on a smooth manifold, eliminating redundant parameters and guaranteeing an optimal starting point—leading to faster convergence and higher accuracy on both LLMs and diffusion models. https://t.co/428QxRoTO2",,,,5,1,32,0,2474,20,260,32
+1946364016676290800,Sat Jul 19 00:18:37 +0000 2025,"Vision Foundation Models as Effective Visual Tokenizers for Autoregressive Image Generation  
+
+Freeze a vision foundation model → add region-adaptive quantization → achieve 2.07 gFID on ImageNet, 3× faster convergence, high-fidelity images without CFG. https://t.co/PVGMQxnwKt",,,,3,1,24,1,1127,10,276,34
+1954455010097738015,Sun Aug 10 08:09:21 +0000 2025,"Mizzen AI introduces HPSv3, a new wide-spectrum human preference score model for text-to-image generation.
+
+It includes a massive 1.08M image-text dataset and a novel iterative refinement method. https://t.co/kxt1VCCYAB",,,,10,3,66,0,3694,26,219,28
