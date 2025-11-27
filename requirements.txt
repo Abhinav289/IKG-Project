@@ -5,3 +5,5 @@ rich
 matplotlib
 seaborn
 scikit-learn
+spacy
+networkx
