@@ -168,3 +168,10 @@ print(response.json())
 ```python
 "\"diffusion\" lang:en from:HuggingPapers"
 ```
+
+## spacy download
+```python
+python -m spacy download en_core_web_trf
+```
+
+To visualize knowledge graph use this site - https://lite.gephi.org/v1.0.1/
