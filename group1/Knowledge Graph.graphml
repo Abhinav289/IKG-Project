@@ -1,0 +1,815 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="SimpleVLA-RL"/>
+<node id="Hugging Face"/>
+<node id="SEELE"/>
+<node id="Baidu"/>
+<node id="Peking University"/>
+<node id="Axon-RL"/>
+<node id="OpenAI Gym"/>
+<node id="95.08%"/>
+<node id="41.4%"/>
+<node id="ProofNet"/>
+<node id="RLPT"/>
+<node id="Reinforcement Learning"/>
+<node id="Learning to Reason from Experience"/>
+<node id="+3.5 to +7.6"/>
+<node id="Meta"/>
+<node id="GSM8"/>
+<node id="K"/>
+<node id="Math500"/>
+<node id="AMC"/>
+<node id="Gensyn"/>
+<node id="SAPO"/>
+<node id="94%"/>
+<node id="ByteDance"/>
+<node id="AgentGym-RL"/>
+<node id="LLM"/>
+<node id="27"/>
+<node id="Princeton University"/>
+<node id="amp"/>
+<node id="Gen-Verse"/>
+<node id="TraceRL"/>
+<node id="DeepWriter-8B &amp;"/>
+<node id="20K"/>
+<node id="Qwen"/>
+<node id="Qwen3-4B-SafeRL"/>
+<node id="Agentic Reinforcement Learning"/>
+<node id="WeChat AI"/>
+<node id="Tsinghua University"/>
+<node id="TikTok &amp;"/>
+<node id="Nanyang Tech"/>
+<node id="SimpleTIR"/>
+<node id="Meta &amp;"/>
+<node id="UC Berkeley"/>
+<node id="Kwai Keye"/>
+<node id="Kuaishou"/>
+<node id="Keye-VL 1.5"/>
+<node id="128"/>
+<node id="UI-TARS-2"/>
+<node id="88.2%"/>
+<node id="Online-Mind2Web &amp;"/>
+<node id="59.8%"/>
+<node id="15"/>
+<node id="RL &amp;"/>
+<node id="Tencent AI Lab"/>
+<node id="Parallel-R1"/>
+<node id="first"/>
+<node id="ScalingInter-RL"/>
+<node id="WebArena"/>
+<node id="Deep Search"/>
+<node id="Alibaba Group"/>
+<node id="Visual-CoG"/>
+<node id="Alibaba Cloud Computing"/>
+<node id="AWorld"/>
+<node id="Qwen3-32B"/>
+<node id="TsinghuaC3I"/>
+<node id="TreePO"/>
+<node id="UMO"/>
+<node id="AgentFly"/>
+<node id="GAIA"/>
+<node id="87.88%"/>
+<node id="DeepResearcher"/>
+<node id="AIME24"/>
+<node id="22.1"/>
+<node id="50.5"/>
+<node id="Qwen2.5-7B"/>
+<node id="+16%"/>
+<node id="Cascade RL &amp;"/>
+<node id="Thyme"/>
+<node id="2"/>
+<node id="GRPO-ATS"/>
+<node id="Alibaba Group's"/>
+<node id="AMAP-ML"/>
+<node id="Pref-GRPO"/>
+<node id="T2I RL &amp;"/>
+<node id="UniGenBench"/>
+<node id="two"/>
+<node id="Nebius AI"/>
+<node id="Humanoid"/>
+<node id="SWE-bench"/>
+<node id="Verified"/>
+<node id="DeepReinforce-AI"/>
+<node id="up to 85%"/>
+<node id="ASearcher"/>
+<node id="ToolTrain"/>
+<node id="Repo Deep Search"/>
+<node id="one"/>
+<node id="Microsoft"/>
+<node id="Agent Lightning"/>
+<node id="Tencent"/>
+<node id="BUPT"/>
+<node id="We-Math 2.0"/>
+<node id="MathBook System"/>
+<node id="MLLM"/>
+<node id="InfiGUI-G1"/>
+<node id="Amazon Research"/>
+<node id="Knapsack RL"/>
+<node id="Hugging Face Paper"/>
+<node id="BRIGHT"/>
+<node id="DCPO"/>
+<node id="+28%"/>
+<node id="DAPO"/>
+<node id="98%"/>
+<node id="WildGuard"/>
+<node id="TruthRL"/>
+<node id="28.9%"/>
+<node id="21.1%"/>
+<node id="Alibaba"/>
+<node id="UI-S1"/>
+<node id="GUI Automation"/>
+<node id="60%"/>
+<node id="GeoPQA"/>
+<node id="9.1%"/>
+<node id="Huawei Technologies"/>
+<node id="4.35x throughput"/>
+<node id="+3.4%"/>
+<node id="Microsoft Research"/>
+<node id="10%"/>
+<node id="5.1%"/>
+<node id="WebSailor-V2"/>
+<node id="BrowseComp"/>
+<node id="HLE"/>
+<node id="GEM"/>
+<node id="Gemini"/>
+<node id="Hugging Face Hub"/>
+<node id="MMR1"/>
+<node id="32B"/>
+<node id="Adobe &amp;"/>
+<node id="Rutgers"/>
+<node id="LLM Agent RL"/>
+<node id="up to 152%"/>
+<node id="ScienceWorld"/>
+<node id="GRPO-RoC"/>
+<node id="rStar2-Agent-14B"/>
+<node id="510"/>
+<edge source="SimpleVLA-RL" target="Hugging Face">
+  <data key="d0">is</data>
+</edge>
+<edge source="Hugging Face" target="one">
+  <data key="d0">Hugging</data>
+</edge>
+<edge source="Hugging Face" target="MathBook System">
+  <data key="d0">System</data>
+</edge>
+<edge source="Hugging Face" target="MLLM">
+  <data key="d0">System</data>
+</edge>
+<edge source="Hugging Face" target="28.9%">
+  <data key="d0">slashes</data>
+</edge>
+<edge source="Hugging Face" target="21.1%">
+  <data key="d0">slashes</data>
+</edge>
+<edge source="SEELE" target="Baidu">
+  <data key="d0">SEELE</data>
+</edge>
+<edge source="SEELE" target="Peking University">
+  <data key="d0">SEELE</data>
+</edge>
+<edge source="Baidu" target="Peking University">
+  <data key="d0">Baidu</data>
+</edge>
+<edge source="Axon-RL" target="OpenAI Gym">
+  <data key="d0">offers diverse</data>
+</edge>
+<edge source="95.08%" target="41.4%">
+  <data key="d0">% on</data>
+</edge>
+<edge source="95.08%" target="ProofNet">
+  <data key="d0">% on</data>
+</edge>
+<edge source="41.4%" target="ProofNet">
+  <data key="d0">% on</data>
+</edge>
+<edge source="RLPT" target="Reinforcement Learning">
+  <data key="d0">introduces</data>
+</edge>
+<edge source="Learning to Reason from Experience" target="+3.5 to +7.6">
+  <data key="d0">improves</data>
+</edge>
+<edge source="Meta" target="GSM8">
+  <data key="d0">Achieves new</data>
+</edge>
+<edge source="Meta" target="K">
+  <data key="d0">Achieves new</data>
+</edge>
+<edge source="Meta" target="Math500">
+  <data key="d0">Achieves new</data>
+</edge>
+<edge source="Meta" target="AMC">
+  <data key="d0">Achieves new</data>
+</edge>
+<edge source="Meta" target="TruthRL">
+  <data key="d0">released</data>
+</edge>
+<edge source="Meta" target="Hugging Face">
+  <data key="d0">released</data>
+</edge>
+<edge source="Meta" target="28.9%">
+  <data key="d0">slashes</data>
+</edge>
+<edge source="Meta" target="21.1%">
+  <data key="d0">slashes</data>
+</edge>
+<edge source="GSM8" target="K">
+  <data key="d0">K</data>
+</edge>
+<edge source="GSM8" target="Math500">
+  <data key="d0">K</data>
+</edge>
+<edge source="GSM8" target="AMC">
+  <data key="d0">K</data>
+</edge>
+<edge source="K" target="Math500">
+  <data key="d0">Math500</data>
+</edge>
+<edge source="K" target="AMC">
+  <data key="d0">K</data>
+</edge>
+<edge source="Math500" target="AMC">
+  <data key="d0">Math500</data>
+</edge>
+<edge source="Gensyn" target="SAPO">
+  <data key="d0">paper</data>
+</edge>
+<edge source="Gensyn" target="94%">
+  <data key="d0">Imagine</data>
+</edge>
+<edge source="SAPO" target="94%">
+  <data key="d0">Imagine</data>
+</edge>
+<edge source="ByteDance" target="AgentGym-RL">
+  <data key="d0">RL</data>
+</edge>
+<edge source="ByteDance" target="LLM">
+  <data key="d0">is</data>
+</edge>
+<edge source="ByteDance" target="27">
+  <data key="d0">outperforms commercial</data>
+</edge>
+<edge source="ByteDance" target="Agentic Reinforcement Learning">
+  <data key="d0">published</data>
+</edge>
+<edge source="ByteDance" target="Hugging Face">
+  <data key="d0">unveil</data>
+</edge>
+<edge source="ByteDance" target="TreePO">
+  <data key="d0">released</data>
+</edge>
+<edge source="ByteDance" target="ToolTrain">
+  <data key="d0">unveils</data>
+</edge>
+<edge source="ByteDance" target="Repo Deep Search">
+  <data key="d0">unveils</data>
+</edge>
+<edge source="ByteDance" target="UI-TARS-2">
+  <data key="d0">unveiled</data>
+</edge>
+<edge source="ByteDance" target="60%">
+  <data key="d0">outperforms</data>
+</edge>
+<edge source="AgentGym-RL" target="LLM">
+  <data key="d0">is</data>
+</edge>
+<edge source="AgentGym-RL" target="27">
+  <data key="d0">outperforms commercial</data>
+</edge>
+<edge source="AgentGym-RL" target="ScalingInter-RL">
+  <data key="d0">Discover</data>
+</edge>
+<edge source="AgentGym-RL" target="WebArena">
+  <data key="d0">Discover</data>
+</edge>
+<edge source="AgentGym-RL" target="Deep Search">
+  <data key="d0">Discover</data>
+</edge>
+<edge source="LLM" target="27">
+  <data key="d0">outperforms commercial</data>
+</edge>
+<edge source="LLM" target="GAIA">
+  <data key="d0">Achieves</data>
+</edge>
+<edge source="LLM" target="87.88%">
+  <data key="d0">Achieves</data>
+</edge>
+<edge source="LLM" target="DeepResearcher">
+  <data key="d0">Achieves</data>
+</edge>
+<edge source="LLM" target="Alibaba Group's">
+  <data key="d0">GRPO from</data>
+</edge>
+<edge source="LLM" target="AMAP-ML">
+  <data key="d0">GRPO from</data>
+</edge>
+<edge source="Princeton University" target="amp">
+  <data key="d0">University &amp;</data>
+</edge>
+<edge source="Princeton University" target="Gen-Verse">
+  <data key="d0">University</data>
+</edge>
+<edge source="Princeton University" target="TraceRL">
+  <data key="d0">unveil</data>
+</edge>
+<edge source="amp" target="Gen-Verse">
+  <data key="d0">amp</data>
+</edge>
+<edge source="amp" target="TraceRL">
+  <data key="d0">unveil</data>
+</edge>
+<edge source="amp" target="Nanyang Tech">
+  <data key="d0">amp</data>
+</edge>
+<edge source="amp" target="SimpleTIR">
+  <data key="d0">introduce</data>
+</edge>
+<edge source="amp" target="Rutgers">
+  <data key="d0">amp</data>
+</edge>
+<edge source="amp" target="LLM Agent RL">
+  <data key="d0">introduce</data>
+</edge>
+<edge source="amp" target="up to 152%">
+  <data key="d0">achieves</data>
+</edge>
+<edge source="amp" target="ScienceWorld">
+  <data key="d0">achieves</data>
+</edge>
+<edge source="Gen-Verse" target="TraceRL">
+  <data key="d0">unveil</data>
+</edge>
+<edge source="DeepWriter-8B &amp;" target="20K">
+  <data key="d0">explore</data>
+</edge>
+<edge source="Qwen" target="Qwen3-4B-SafeRL">
+  <data key="d0">released</data>
+</edge>
+<edge source="Qwen" target="Hugging Face">
+  <data key="d0">released</data>
+</edge>
+<edge source="Qwen3-4B-SafeRL" target="Hugging Face">
+  <data key="d0">SafeRL on</data>
+</edge>
+<edge source="WeChat AI" target="Tsinghua University">
+  <data key="d0">AI</data>
+</edge>
+<edge source="Tsinghua University" target="ASearcher">
+  <data key="d0">unveiled</data>
+</edge>
+<edge source="TikTok &amp;" target="amp">
+  <data key="d0">TikTok &amp;</data>
+</edge>
+<edge source="TikTok &amp;" target="Nanyang Tech">
+  <data key="d0">Tech</data>
+</edge>
+<edge source="TikTok &amp;" target="SimpleTIR">
+  <data key="d0">introduce</data>
+</edge>
+<edge source="Nanyang Tech" target="SimpleTIR">
+  <data key="d0">introduce</data>
+</edge>
+<edge source="SimpleTIR" target="AIME24">
+  <data key="d0">boosts</data>
+</edge>
+<edge source="SimpleTIR" target="22.1">
+  <data key="d0">boosts</data>
+</edge>
+<edge source="SimpleTIR" target="50.5">
+  <data key="d0">boosts</data>
+</edge>
+<edge source="SimpleTIR" target="Qwen2.5-7B">
+  <data key="d0">boosts</data>
+</edge>
+<edge source="Meta &amp;" target="UC Berkeley">
+  <data key="d0">Meta</data>
+</edge>
+<edge source="Kwai Keye" target="Kuaishou">
+  <data key="d0">Team at</data>
+</edge>
+<edge source="Kwai Keye" target="Keye-VL 1.5">
+  <data key="d0">unveils</data>
+</edge>
+<edge source="Kwai Keye" target="128">
+  <data key="d0">unveils</data>
+</edge>
+<edge source="Kuaishou" target="Keye-VL 1.5">
+  <data key="d0">unveils</data>
+</edge>
+<edge source="Kuaishou" target="128">
+  <data key="d0">unveils</data>
+</edge>
+<edge source="Keye-VL 1.5" target="128">
+  <data key="d0">VL</data>
+</edge>
+<edge source="UI-TARS-2" target="88.2%">
+  <data key="d0">achieved</data>
+</edge>
+<edge source="UI-TARS-2" target="Online-Mind2Web &amp;">
+  <data key="d0">achieved</data>
+</edge>
+<edge source="UI-TARS-2" target="59.8%">
+  <data key="d0">achieved</data>
+</edge>
+<edge source="UI-TARS-2" target="15">
+  <data key="d0">achieved</data>
+</edge>
+<edge source="UI-TARS-2" target="RL &amp;">
+  <data key="d0">uses</data>
+</edge>
+<edge source="UI-TARS-2" target="60%">
+  <data key="d0">outperforms</data>
+</edge>
+<edge source="88.2%" target="Online-Mind2Web &amp;">
+  <data key="d0">% on</data>
+</edge>
+<edge source="88.2%" target="59.8%">
+  <data key="d0">% on</data>
+</edge>
+<edge source="88.2%" target="15">
+  <data key="d0">% on</data>
+</edge>
+<edge source="88.2%" target="RL &amp;">
+  <data key="d0">uses</data>
+</edge>
+<edge source="Online-Mind2Web &amp;" target="59.8%">
+  <data key="d0">Online</data>
+</edge>
+<edge source="Online-Mind2Web &amp;" target="15">
+  <data key="d0">&amp;</data>
+</edge>
+<edge source="Online-Mind2Web &amp;" target="RL &amp;">
+  <data key="d0">uses</data>
+</edge>
+<edge source="59.8%" target="15">
+  <data key="d0">score on</data>
+</edge>
+<edge source="59.8%" target="RL &amp;">
+  <data key="d0">uses</data>
+</edge>
+<edge source="15" target="RL &amp;">
+  <data key="d0">uses</data>
+</edge>
+<edge source="Tencent AI Lab" target="Parallel-R1">
+  <data key="d0">introduces</data>
+</edge>
+<edge source="Tencent AI Lab" target="first">
+  <data key="d0">is</data>
+</edge>
+<edge source="Parallel-R1" target="first">
+  <data key="d0">is</data>
+</edge>
+<edge source="ScalingInter-RL" target="WebArena">
+  <data key="d0">ScalingInter</data>
+</edge>
+<edge source="ScalingInter-RL" target="Deep Search">
+  <data key="d0">Search</data>
+</edge>
+<edge source="WebArena" target="Deep Search">
+  <data key="d0">WebArena</data>
+</edge>
+<edge source="Alibaba Group" target="Visual-CoG">
+  <data key="d0">introduces</data>
+</edge>
+<edge source="Alibaba Group" target="Hugging Face">
+  <data key="d0">introduces</data>
+</edge>
+<edge source="Alibaba Group" target="two">
+  <data key="d0">find</data>
+</edge>
+<edge source="Alibaba Group" target="MMR1">
+  <data key="d0">unveil</data>
+</edge>
+<edge source="Alibaba Group" target="32B">
+  <data key="d0">Releasing massive</data>
+</edge>
+<edge source="Visual-CoG" target="Hugging Face">
+  <data key="d0">CoG on</data>
+</edge>
+<edge source="Alibaba Cloud Computing" target="Hugging Face">
+  <data key="d0">released</data>
+</edge>
+<edge source="AWorld" target="Qwen3-32B">
+  <data key="d0">Check</data>
+</edge>
+<edge source="TsinghuaC3I" target="ByteDance">
+  <data key="d0">TsinghuaC3I</data>
+</edge>
+<edge source="TsinghuaC3I" target="Hugging Face">
+  <data key="d0">unveil</data>
+</edge>
+<edge source="UMO" target="ByteDance">
+  <data key="d0">sourced by</data>
+</edge>
+<edge source="AgentFly" target="LLM">
+  <data key="d0">redefines</data>
+</edge>
+<edge source="AgentFly" target="GAIA">
+  <data key="d0">Achieves</data>
+</edge>
+<edge source="AgentFly" target="87.88%">
+  <data key="d0">Achieves</data>
+</edge>
+<edge source="AgentFly" target="DeepResearcher">
+  <data key="d0">Achieves</data>
+</edge>
+<edge source="GAIA" target="87.88%">
+  <data key="d0">GAIA</data>
+</edge>
+<edge source="GAIA" target="DeepResearcher">
+  <data key="d0">GAIA</data>
+</edge>
+<edge source="87.88%" target="DeepResearcher">
+  <data key="d0">Pass</data>
+</edge>
+<edge source="AIME24" target="22.1">
+  <data key="d0">scores from</data>
+</edge>
+<edge source="AIME24" target="50.5">
+  <data key="d0">scores from</data>
+</edge>
+<edge source="AIME24" target="Qwen2.5-7B">
+  <data key="d0">scores from</data>
+</edge>
+<edge source="AIME24" target="DAPO">
+  <data key="d0">AIME24</data>
+</edge>
+<edge source="22.1" target="50.5">
+  <data key="d0">50.5</data>
+</edge>
+<edge source="22.1" target="Qwen2.5-7B">
+  <data key="d0">50.5 with</data>
+</edge>
+<edge source="50.5" target="Qwen2.5-7B">
+  <data key="d0">50.5 with</data>
+</edge>
+<edge source="+16%" target="Cascade RL &amp;">
+  <data key="d0">reasoning</data>
+</edge>
+<edge source="Thyme" target="2">
+  <data key="d0">Trained with</data>
+</edge>
+<edge source="Thyme" target="GRPO-ATS">
+  <data key="d0">Trained with</data>
+</edge>
+<edge source="2" target="GRPO-ATS">
+  <data key="d0">strategy</data>
+</edge>
+<edge source="2" target="BRIGHT">
+  <data key="d0">achieves</data>
+</edge>
+<edge source="2" target="9.1%">
+  <data key="d0">Improves</data>
+</edge>
+<edge source="Alibaba Group's" target="AMAP-ML">
+  <data key="d0">ML</data>
+</edge>
+<edge source="Pref-GRPO" target="T2I RL &amp;">
+  <data key="d0">GRPO for stable</data>
+</edge>
+<edge source="Pref-GRPO" target="UniGenBench">
+  <data key="d0">GRPO for stable</data>
+</edge>
+<edge source="Pref-GRPO" target="Hugging Face">
+  <data key="d0">GRPO for stable</data>
+</edge>
+<edge source="T2I RL &amp;" target="UniGenBench">
+  <data key="d0">&amp;</data>
+</edge>
+<edge source="T2I RL &amp;" target="Hugging Face">
+  <data key="d0">&amp;</data>
+</edge>
+<edge source="UniGenBench" target="Hugging Face">
+  <data key="d0">UniGenBench</data>
+</edge>
+<edge source="Nebius AI" target="Humanoid">
+  <data key="d0">AI</data>
+</edge>
+<edge source="Nebius AI" target="SWE-bench">
+  <data key="d0">doubles</data>
+</edge>
+<edge source="Nebius AI" target="Verified">
+  <data key="d0">doubles</data>
+</edge>
+<edge source="Humanoid" target="SWE-bench">
+  <data key="d0">doubles</data>
+</edge>
+<edge source="Humanoid" target="Verified">
+  <data key="d0">doubles</data>
+</edge>
+<edge source="SWE-bench" target="Verified">
+  <data key="d0">Verified</data>
+</edge>
+<edge source="DeepReinforce-AI" target="up to 85%">
+  <data key="d0">achieves</data>
+</edge>
+<edge source="ToolTrain" target="Repo Deep Search">
+  <data key="d0">ToolTrain</data>
+</edge>
+<edge source="Microsoft" target="Agent Lightning">
+  <data key="d0">released</data>
+</edge>
+<edge source="Microsoft" target="Hugging Face">
+  <data key="d0">released</data>
+</edge>
+<edge source="Agent Lightning" target="Hugging Face">
+  <data key="d0">Lightning on</data>
+</edge>
+<edge source="Tencent" target="BUPT">
+  <data key="d0">Tencent</data>
+</edge>
+<edge source="Tencent" target="We-Math 2.0">
+  <data key="d0">released</data>
+</edge>
+<edge source="Tencent" target="Hugging Face">
+  <data key="d0">released</data>
+</edge>
+<edge source="Tencent" target="MathBook System">
+  <data key="d0">System</data>
+</edge>
+<edge source="Tencent" target="MLLM">
+  <data key="d0">System</data>
+</edge>
+<edge source="Tencent" target="4.35x throughput">
+  <data key="d0">delivers</data>
+</edge>
+<edge source="Tencent" target="+3.4%">
+  <data key="d0">delivers</data>
+</edge>
+<edge source="BUPT" target="We-Math 2.0">
+  <data key="d0">released</data>
+</edge>
+<edge source="BUPT" target="Hugging Face">
+  <data key="d0">released</data>
+</edge>
+<edge source="BUPT" target="MathBook System">
+  <data key="d0">System</data>
+</edge>
+<edge source="BUPT" target="MLLM">
+  <data key="d0">System</data>
+</edge>
+<edge source="We-Math 2.0" target="Hugging Face">
+  <data key="d0">Math</data>
+</edge>
+<edge source="We-Math 2.0" target="MathBook System">
+  <data key="d0">System</data>
+</edge>
+<edge source="We-Math 2.0" target="MLLM">
+  <data key="d0">System</data>
+</edge>
+<edge source="MathBook System" target="MLLM">
+  <data key="d0">System</data>
+</edge>
+<edge source="InfiGUI-G1" target="Amazon Research">
+  <data key="d0">Research</data>
+</edge>
+<edge source="Knapsack RL" target="Hugging Face Paper">
+  <data key="d0">published</data>
+</edge>
+<edge source="DCPO" target="+28%">
+  <data key="d0">introduces adaptive</data>
+</edge>
+<edge source="DCPO" target="AIME24">
+  <data key="d0">'s</data>
+</edge>
+<edge source="DCPO" target="DAPO">
+  <data key="d0">'s</data>
+</edge>
+<edge source="+28%" target="AIME24">
+  <data key="d0">'s</data>
+</edge>
+<edge source="+28%" target="DAPO">
+  <data key="d0">'s</data>
+</edge>
+<edge source="98%" target="WildGuard">
+  <data key="d0">rate on</data>
+</edge>
+<edge source="TruthRL" target="Hugging Face">
+  <data key="d0">TruthRL on</data>
+</edge>
+<edge source="TruthRL" target="28.9%">
+  <data key="d0">slashes</data>
+</edge>
+<edge source="TruthRL" target="21.1%">
+  <data key="d0">slashes</data>
+</edge>
+<edge source="28.9%" target="21.1%">
+  <data key="d0">%</data>
+</edge>
+<edge source="Alibaba" target="UI-S1">
+  <data key="d0">S1</data>
+</edge>
+<edge source="Alibaba" target="GUI Automation">
+  <data key="d0">hits new</data>
+</edge>
+<edge source="Alibaba" target="GeoPQA">
+  <data key="d0">GeoPQA</data>
+</edge>
+<edge source="Alibaba" target="2">
+  <data key="d0">GeoPQA</data>
+</edge>
+<edge source="Alibaba" target="9.1%">
+  <data key="d0">Improves</data>
+</edge>
+<edge source="Alibaba" target="WebSailor-V2">
+  <data key="d0">V2</data>
+</edge>
+<edge source="Alibaba" target="BrowseComp">
+  <data key="d0">achieves</data>
+</edge>
+<edge source="Alibaba" target="HLE">
+  <data key="d0">achieves</data>
+</edge>
+<edge source="UI-S1" target="GUI Automation">
+  <data key="d0">hits new</data>
+</edge>
+<edge source="UI-S1" target="UI-S1">
+  <data key="d0">S1</data>
+</edge>
+<edge source="GUI Automation" target="UI-S1">
+  <data key="d0">S1</data>
+</edge>
+<edge source="GeoPQA" target="2">
+  <data key="d0">GeoPQA</data>
+</edge>
+<edge source="GeoPQA" target="9.1%">
+  <data key="d0">Improves</data>
+</edge>
+<edge source="Huawei Technologies" target="first">
+  <data key="d0">dropped</data>
+</edge>
+<edge source="4.35x throughput" target="+3.4%">
+  <data key="d0">speedup</data>
+</edge>
+<edge source="Microsoft Research" target="10%">
+  <data key="d0">beats</data>
+</edge>
+<edge source="Microsoft Research" target="5.1%">
+  <data key="d0">PPO by</data>
+</edge>
+<edge source="10%" target="5.1%">
+  <data key="d0">PPO by</data>
+</edge>
+<edge source="WebSailor-V2" target="BrowseComp">
+  <data key="d0">achieves</data>
+</edge>
+<edge source="WebSailor-V2" target="HLE">
+  <data key="d0">achieves</data>
+</edge>
+<edge source="BrowseComp" target="HLE">
+  <data key="d0">BrowseComp</data>
+</edge>
+<edge source="GEM" target="Gemini">
+  <data key="d0">supports async</data>
+</edge>
+<edge source="GEM" target="Hugging Face Hub">
+  <data key="d0">Accelerate</data>
+</edge>
+<edge source="Gemini" target="Hugging Face Hub">
+  <data key="d0">Paper</data>
+</edge>
+<edge source="MMR1" target="32B">
+  <data key="d0">Releasing massive</data>
+</edge>
+<edge source="Adobe &amp;" target="amp">
+  <data key="d0">amp</data>
+</edge>
+<edge source="Adobe &amp;" target="Rutgers">
+  <data key="d0">Adobe</data>
+</edge>
+<edge source="Adobe &amp;" target="LLM Agent RL">
+  <data key="d0">&amp;</data>
+</edge>
+<edge source="Adobe &amp;" target="up to 152%">
+  <data key="d0">achieves</data>
+</edge>
+<edge source="Adobe &amp;" target="ScienceWorld">
+  <data key="d0">achieves</data>
+</edge>
+<edge source="Rutgers" target="LLM Agent RL">
+  <data key="d0">introduce</data>
+</edge>
+<edge source="Rutgers" target="up to 152%">
+  <data key="d0">achieves</data>
+</edge>
+<edge source="Rutgers" target="ScienceWorld">
+  <data key="d0">achieves</data>
+</edge>
+<edge source="LLM Agent RL" target="up to 152%">
+  <data key="d0">achieves</data>
+</edge>
+<edge source="LLM Agent RL" target="ScienceWorld">
+  <data key="d0">achieves</data>
+</edge>
+<edge source="up to 152%" target="ScienceWorld">
+  <data key="d0">up to</data>
+</edge>
+<edge source="GRPO-RoC" target="rStar2-Agent-14B">
+  <data key="d0">Agent-14B</data>
+</edge>
+<edge source="GRPO-RoC" target="510">
+  <data key="d0">reaches</data>
+</edge>
+<edge source="rStar2-Agent-14B" target="510">
+  <data key="d0">reaches</data>
+</edge>
+</graph></graphml>
